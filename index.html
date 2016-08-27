@@ -9,14 +9,23 @@
         <script src="node_modules/jquery/dist/jquery.min.js"></script>
     </head>
     <body>
+        <div id="fb-root"></div>
+        <script>(function(d, s, id) {
+                 var js, fjs = d.getElementsByTagName(s)[0];
+                 if (d.getElementById(id)) return;
+                 js = d.createElement(s); js.id = id;
+                 js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.7";
+                 fjs.parentNode.insertBefore(js, fjs);
+                 }(document, 'script', 'facebook-jssdk'));</script>
+        
         <div class="container">
             
             
             <section>
                 <div class="jumbotron">
                     <div class="clearfix">
-                    <img src="images/logo.png" class="img-responsive pull-right gap-left" alt="Logo Yoga en Beauchef" width="191" height="191" />
-                    <h1>Yoga en Beauchef</h1>
+                        <img src="images/logo.png" class="img-responsive pull-right gap-left" alt="Logo Yoga en Beauchef" width="191" height="191" />
+                        <h1>Yoga en Beauchef</h1>
                     </div>
                 </div>
                 
@@ -200,7 +209,16 @@
                         <p class="text-center">La inscripción se hace todo el semestre por el médio del correo a Juraj y Vicente: <a href="mailto:yogaenbeauchef@gmail.com">yogaenbeauchef@gmail.com</a>.</p>
                     </div>
                 </div>
-
+                
+                <div class="panel panel-primary animate-in">
+                    <div class="panel-heading">
+                        <h4 class"panel-title">Facebook</h4>
+                    </div>
+                    <div class="panel-body">
+                        <div class="fb-page" data-href="https://www.facebook.com/yogabeauchef/" data-tabs="timeline" data-small-header="true" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/yogabeauchef/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/yogabeauchef/">Yoga en Beauchef</a></blockquote></div>
+                    </div>
+                </div>
+                
             </section>
             
         </div>
