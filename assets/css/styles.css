@@ -5,3 +5,7 @@
 .gap-left {
     margin-left: 10px;
 }
+
+.page-header h1 {
+    font-size: 4em
+}
