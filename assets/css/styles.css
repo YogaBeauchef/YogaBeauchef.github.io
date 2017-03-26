@@ -9,3 +9,7 @@
 .page-header h1 {
     font-size: 4em
 }
+
+.navbar-default {
+  background: rgba(245, 245, 245, 0.96);
+}
