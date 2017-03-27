@@ -5,7 +5,9 @@ theme: minima
 
 url: https://yogabeauchef.github.io
 
+lang: es
 timezone: Chile/Santiago
+date_format: "%d de %B, %Y"
 
 google_analytics: UA-83579468-1
 google_analytics_id: UA-83579468-1

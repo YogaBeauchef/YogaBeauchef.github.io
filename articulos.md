@@ -21,7 +21,7 @@ layout: page
 	{% else %}
 	  <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>,
 	{% endif %}
-	<span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+	<span class="post-meta">{% include translated-date.html date=post.date %}</span>
     </li>
   {% endfor %}
 </ul>
