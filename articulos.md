@@ -14,6 +14,8 @@ layout: page
      <span class="glyphicon glyphicon-calendar" aria-hidden="true"></span>
     {% when 'artículo' %}
      <span class="glyphicon glyphicon-education" aria-hidden="true"></span>
+    {% when 'noticia' %}
+     <span class="glyphicon glyphicon-pencil" aria-hidden="true"></span>
   {% endcase %}
     {% if post.author %}
 	  <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>

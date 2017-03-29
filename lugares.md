@@ -21,7 +21,8 @@ Yoga & Desarrollo Humano imparte clases curriculares y talleres en varias facult
 - Cursos Curriculares (Sala F-15):
    - Lunes y Jueves de 15:00 a 16:30
    - Martes y Viernes de 15:00 a 16:30
-- Taller comunitario (Sala F-15):
+- Taller Comunitario (Sala F-15):
+   - Lunes y Jueves de 08:30 a 10:00
    - Miércoles de 13:30 a 14:30
 
 <a name="fcfm-jump"></a>
@@ -64,10 +65,10 @@ abierto para todos los interesados. En la descripción del taller encuentras má
 
 - Cursos Curriculares:
   - Martes y Viernes de 12:00 a 13:30
-  - Martes y Viernes de 17:00 a 18:30
-- Talleres comunitarios:
+  - Martes y Jueves de 17:00 a 18:30
+- Talleres Comunitarios:
+   - Martes y Viernes de 13:30 a 14:30 
    - Martes y Jueves de 18:30 a 19:30
-   - Martes y Viernes de 13:30 a 14:30
 
 El curso y los tallers imparten en sala multi-uso en el campo deportivo. Para más informaciones contactanos por el correo [drh.yoga@gmail.com](mailto:drh.yoga@gmail.com?subject=Pregunta%20desde%20web%20Yoga%20Beauchef).
 
