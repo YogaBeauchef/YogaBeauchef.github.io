@@ -39,7 +39,7 @@ logo: /assets/img/logo/mini.png
 
 # List of links in the navigation bar
 navbar-links:
-  Artículos & Eventos: 'articulos.html'
+  Notícias & Artículos: 'articulos.html'
   Taller:
     - Yoga & D.H.: 'detalles.html'
     - Contenido: "taller.html"

@@ -6,7 +6,7 @@ print-title: true
 layout: page
 ---
 
-## Noticias
+## Noticias y Artículos
 
 <ul>
   {% for post in site.posts limit: 2 %}
@@ -30,7 +30,7 @@ layout: page
   {% endfor %}
 </ul>
 
-<p class="text-right"><a href="{{ site.url }}/articulos.html" title="Otros artículos y eventos">más artículos...</a></p>
+<p class="text-right"><a href="{{ site.url }}/articulos.html" title="Otros artículos y eventos">más noticias y artículos...</a></p>
 
 ## Diego Reyes Hochfarber
 
