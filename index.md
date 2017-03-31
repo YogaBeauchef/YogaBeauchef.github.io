@@ -6,6 +6,32 @@ print-title: true
 layout: page
 ---
 
+## Noticias
+
+<ul>
+  {% for post in site.posts limit: 2 %}
+<li>
+  {% case post.categories.first %}
+    {% when 'evento' %}
+     <span class="glyphicon glyphicon-calendar" aria-hidden="true"></span>
+    {% when 'artículo' %}
+     <span class="glyphicon glyphicon-education" aria-hidden="true"></span>
+    {% when 'noticia' %}
+     <span class="glyphicon glyphicon-pencil" aria-hidden="true"></span>
+  {% endcase %}
+    {% if post.author %}
+	  <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+	   por {{ post.author }},
+	{% else %}
+	  <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>,
+	{% endif %}
+	<span class="post-meta">{% include translated-date.html date=post.date %}</span>
+    </li>
+  {% endfor %}
+</ul>
+
+<p class="text-right"><a href="{{ site.url }}/articulos.html" title="Otros artículos y eventos">más artículos...</a></p>
+
 ## Diego Reyes Hochfarber
 
 <img src="{{ site.url }}/assets/img/person/diego.png" class="img-responsive img-thumbnail pull-left gap-right" alt="Diego Reyes Hochfarber" width="131em" />
