@@ -15,7 +15,7 @@ Rodrigo Romo es un orador internacional, creador y promotor de la técnica Romet
 - Habilitar el entendimiento de que somos Dios en acción en la tierra y superar los prejuicios que afecten hermanos extraterrestres y dogmas creados por algunas religiones y algunos segmentos espiritualistas.
 - Promover las enseñanzas relacionadas con Supra Confederación Confederación Intergaláctica, Orden Santa Esmeralda, Orden Melquisedec, Orden Voronandeck, Comandantes Estelares, La Operación de Rescate, Maestros de Hermandad Blanca, amados Orishas y la energía Reiki [[fuente](https://rodrigoromo.com.br/home/sobre/)].
 
-Para conocer a Rodrigo Romo y sus enseñanzas, les recomentamos charla llamada *?Quienes somos? Y que hacemos en esta Matriz Planetaria!*, disponible en YouTube en tres partes: [parte uno](https://www.youtube.com/watch?v=Ps_TjJoX2rY), [dos](https://www.youtube.com/watch?v=w4-hDmfoX4Q), [tres](https://www.youtube.com/watch?v=q6fVEuBiRVs).
+Para conocer a Rodrigo Romo y sus enseñanzas, les recomentamos charla llamada *¿Quienes somos? Y que hacemos en esta Matriz Planetaria!*, disponible en YouTube en tres partes: [parte uno](https://www.youtube.com/watch?v=Ps_TjJoX2rY), [dos](https://www.youtube.com/watch?v=w4-hDmfoX4Q), [tres](https://www.youtube.com/watch?v=q6fVEuBiRVs).
 
 **El día viernes, 7 de abril 2017, a las 16:00**, se organiza una charla abierta que nos permitirá la comprensión de las enseñanzas y aportará el despertar de la conciencia de los asistentes en su aspecto individual y colectivo [[fuente](https://rodrigoromo.com.br/2016/11/15/rodrigo-romo-en-chile-2017/)].
 
