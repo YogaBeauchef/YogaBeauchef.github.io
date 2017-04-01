@@ -9,7 +9,7 @@ categories: evento
 
 **Rodrigo Romo**, nacido en Santiago de Chile, llegó a Brasil a los cinco años dónde vive hasta el día de hoy. A los seis años despertó su sensibilidad psíquica a través de la comunicación con uno de sus mentores espirituales.
 
-Rodrigo Romo es un orador internacional, creador y promotor de la técnica Rometria™, autor de 45 libros espiritistas con más de 25.000 estudiantes sintonizados en todo el mundo. El Rometria™, compuesto por varios cursos apunta los siguientes objetivos:
+Rodrigo Romo es un orador internacional, creador y promotor de la técnica Rometria™, autor de 65 libros espiritistas con más de 70.000 estudiantes sintonizados en todo el mundo. El Rometria™, compuesto por varios cursos, apunta los siguientes objetivos:
 
 - Desarrollar y despertar la Llama Trina, iniciando el proceso individual de volver a conectar con el plano del alma sensitiva y realidades paralelas vinculadas a ser superior, promover la limpieza de registros pasados ​​de la vida, y fomentar la co-creación en armonía con el universo.
 - Habilitar el entendimiento de que somos Dios en acción en la tierra y superar los prejuicios que afecten hermanos extraterrestres y dogmas creados por algunas religiones y algunos segmentos espiritualistas.
