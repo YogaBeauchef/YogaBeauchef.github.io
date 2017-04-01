@@ -13,7 +13,6 @@
     {% capture linkurl %}{{ include.link[1] }}{% endcapture %}
   {% else %}
     {% capture linkurl %}{{ site.url }}/{{ include.link[1] }}{% endcapture %}
-    {% capture linkurl %}{{ linkurl | replace: '//', '/' }}{% endcapture %}
   {% endif %}
 {% else %}
   {% capture linkurl %}{{ include.link[1] }}{% endcapture %}

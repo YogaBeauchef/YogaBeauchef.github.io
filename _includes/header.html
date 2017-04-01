@@ -8,12 +8,10 @@
 	  {% assign imgnum = forloop.index %}
 	  {% for imginfo in bigimg %}
 	    {% if imginfo[0] %}
-                  {% capture imgsrc %}{{ site.url }}/{{ imginfo[0] }}{% endcapture %}
-		  data-img-src-{{ imgnum }}="{{ imgsrc | replace: '//', '/' }}"
+		  data-img-src-{{ imgnum }}="{{ site.url }}/{{ imginfo[0] }}"
 		  data-img-desc-{{ imgnum }}="{{ imginfo[1] }}"
 		{% else %}
-                  {% capture imgsrc %}{{ site.url }}/{{ imginfo }}{% endcapture %}
-		  data-img-src-{{ imgnum }}="{{ imgsrc | replace: '//', '/' }}"
+		  data-img-src-{{ imgnum }}="{{ site.url }}/{{ imginfo }}"
 		{% endif %}
 	  {% endfor %}
     {% endfor %}

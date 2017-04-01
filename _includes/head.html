@@ -19,7 +19,7 @@
 
   {% if layout.common-css %}
     {% for css in layout.common-css %}
-      <link rel="stylesheet" href="{{ site.url }}{{ css | replace: '//', '/' }}" />
+      <link rel="stylesheet" href="{{ site.url }}/{{ css | replace: '//', '/' }}" />
     {% endfor %}
   {% endif %}
 
@@ -37,7 +37,7 @@
 
   {% if page.css %}
     {% for css in page.css %}
-      <link rel="stylesheet" href="{{ site.url }}{{ css | replace: '//', '/' }}" />
+      <link rel="stylesheet" href="{{ site.url }}/{{ css | replace: '//', '/' }}" />
     {% endfor %}
   {% endif %}
 
@@ -67,17 +67,17 @@
   <meta property="og:type" content="website" />
 
   {% if page.id %}
-  <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
-  <link rel="canonical" href="{{ site.url }}{{ page.url }}" />
+  <meta property="og:url" content="{{ site.url }}/{{ page.url }}" />
+  <link rel="canonical" href="{{ site.url }}/{{ page.url }}" />
   {% else %}
-  <meta property="og:url" content="{{ site.url }}{{ page.url | remove: '/index.html' | remove: '.html' }}" />
-  <link rel="canonical" href="{{ site.url }}{{ page.url | remove: '/index.html' | remove: '.html' }}" />
+  <meta property="og:url" content="{{ site.url }}/{{ page.url | remove: '/index.html' | remove: '.html' }}" />
+  <link rel="canonical" href="{{ site.url }}/{{ page.url | remove: '/index.html' | remove: '.html' }}" />
   {% endif %}
 
   {% if page.share-img %}
   <meta property="og:image" content="{{ page.share-img }}" />
   {% elsif site.avatar %}
-  <meta property="og:image" content="{{ site.url }}{{ site.avatar }}" />
+  <meta property="og:image" content="{{ site.url }}/{{ site.avatar }}" />
   {% endif %}
   
 
@@ -105,7 +105,7 @@
   {% if page.share-img %}
   <meta name="twitter:image" content="{{ page.share-img }}" />
   {% elsif site.avatar %}
-  <meta name="twitter:image" content="{{ site.url }}{{ site.avatar }}" />
+  <meta name="twitter:image" content="{{ site.url }}/{{ site.avatar }}" />
   {% endif %}
 
 </head>
