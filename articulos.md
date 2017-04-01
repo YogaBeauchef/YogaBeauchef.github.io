@@ -4,7 +4,7 @@ print-title: false
 layout: page
 ---
 
-# Artículos & Eventos
+# Noticias y Artículos
 
 <ul>
   {% for post in site.posts %}
