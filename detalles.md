@@ -33,4 +33,5 @@ No se puede Dar lo que no se tiene, por eso, el taller tiene como propósito el 
 
 <p class="text-center">
 <a class="btn btn-primary btn-lg" href="taller.html" role="button">Contenido del Taller</a>
+<a class="btn btn-primary btn-lg" href="http://eepurl.com/cD1YXj" role="button">Inscripciones FCFM</a>
 </p>
