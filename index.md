@@ -6,6 +6,8 @@ print-title: true
 layout: page
 ---
 
+> "Sólo se volverá clara tu visión cuando puedas mirar en tu propio corazón. Porqué quién mira hacia afuera sueña, y quién mira hacia adentro despierta." — [Carl Gustav Jung](https://es.wikipedia.org/wiki/Carl_Gustav_Jung)
+
 ## Noticias y Artículos
 
 <ul>
