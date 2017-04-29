@@ -9,9 +9,13 @@ categories: artículo
 
 <img src="{{ site.url }}/assets/img/posts/2017-04-29-wayne-dyer-naranja.jpg" class="img-responsive img-thumbnail gap-left pull-right" alt="Naranja" width="143" height="143" />
 
-El día anterior a la muerte de Wayne Dyer se preparaba para hablar en una conferencia de *‘I can do it’*, que significa *'Puedo hacerlo'*, cuando decidió sacar una naranja al escenario como un apoyo para su exposición. Comenzó una conversación con un joven brillante de unos doce años que estaba sentado en la primera fila. Él dijo, *“Si exprimiera esta naranja tan fuerte como pudiera, ¿qué saldría?”* le preguntó. Le miró como si estuviera un loco y le dijo: *“Zumo, por supuesto.”* Wayne dijo *“¿Crees que podría salir zumo de manzana?”* *“¡No!”* se rió. *“¿Y zumo de pomelo?”* *“¡No!”* *“¿Qué saldría de ella?”* *“Zumo de naranja, por supuesto.”* Wayne dijo *“¿Por qué? ¿Por qué cuando exprimes una naranja sale su zumo?”* El joven puede que ya estuviera empezando a desesperarse con él.
+El día anterior a la muerte de Wayne Dyer se preparaba para hablar en una conferencia de *‘I can do it’*, que significa *'Puedo hacerlo'*, cuando decidió sacar una naranja al escenario como un apoyo para su exposición. Comenzó una conversación con un joven brillante de unos doce años que estaba sentado en la primera fila. Él dijo,
 
-> “Bueno, es una naranja y eso es lo que hay dentro”.
+> “Si exprimiera esta naranja tan fuerte como pudiera, ¿qué saldría?”
+
+le preguntó. Le miró como si estuviera un loco y le dijo: *“Zumo, por supuesto.”* Wayne dijo *“¿Crees que podría salir zumo de manzana?”* *“¡No!”* se rió. *“¿Y zumo de pomelo?”* *“¡No!”* *“¿Qué saldría de ella?”* *“Zumo de naranja, por supuesto.”* Wayne dijo *“¿Por qué? ¿Por qué cuando exprimes una naranja sale su zumo?”* El joven puede que ya estuviera empezando a desesperarse con él.
+
+> “Bueno, es una naranja y eso es lo que hay dentro.”
 
 Wayne asintió con la cabeza. *Vamos a suponer que esta naranja no es una naranja, sino que eres tú y alguien te aprieta, ejerce presión sobre ti, dice algo que no te gusta, que te ofende. Y fuera de ti sale la ira, el odio, el rencor, el miedo. ¿Por qué? La respuesta, como nuestro joven amigo nos ha dicho, es porque eso es lo que hay dentro. Es una de las grandes lecciones de la vida.*
 
