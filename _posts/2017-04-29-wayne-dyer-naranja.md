@@ -23,8 +23,8 @@ Wayne asintió con la cabeza. *Vamos a suponer que esta naranja no es una naranj
 
 *Cuando alguien ejerce presión sobre ti y de ti no sale otra cosa que amor, es porque eso es lo que has permitido habitar en tu interior. Una vez que quitas todas esas cosas negativas que no deseas en tu vida y las reemplazas por amor, te encontrarás viviendo una vida altamente funcional. Gracias, mi joven amigo,* dijo Wayne Dyer, *¡esta naranja es para ti!* 
 
-<div class="text-center">
-<iframe src="https://www.youtube.com/embed/L4GycGfQtZQ" frameborder="0" allowfullscreen></iframe>
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L4GycGfQtZQ" frameborder="0" allowfullscreen></iframe>
 </div>
 
 Extraído del sitio web [oscarsaiz.es](http://oscarsaiz.es/wayne-dyer-saco-todo-el-zumo/), original publicado en inglés en [Facebook](https://www.facebook.com/drwaynedyer/photos/a.387583371029.167523.83636976029/10153612633701030/?type=1).
