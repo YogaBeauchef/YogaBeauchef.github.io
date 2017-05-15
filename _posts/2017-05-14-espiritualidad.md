@@ -10,7 +10,7 @@ Desde el momento, que un ser humano imparte el camino espiritual, el camino de a
 
 Desde este momento comienza experimentar, en su propia vida, la relación entre su estado interno (de su casa) y la realidad externa. Los dos siguientes videos justamente amplían la relación entre lo interno y lo externo desde el punto de vista científico.
 
-## Documental La espiritualidad cuántica
+## Documental La Espiritualidad Cuántica
 
 El siguiente documental de 23 minutos aborda la espiritualidad desde la ciencia, incluyendo la [física cuántica](https://es.wikipedia.org/wiki/Mecánica_cuántica) y la [neurociencia](https://es.wikipedia.org/wiki/Neurociencia).
 
