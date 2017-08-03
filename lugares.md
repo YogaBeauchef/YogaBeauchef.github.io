@@ -21,15 +21,18 @@ Yoga & Desarrollo Humano imparte clases curriculares y talleres en varias facult
 - Cursos Curriculares (Sala F-15):
    - Lunes y Jueves de 15:00 a 16:30
    - Martes y Viernes de 15:00 a 16:30
-- Taller Yoga Comunitario para estudiantes FAU-FEN (Sala F-15):
-   - Lunes y Jueves de 08:00 a 09:30
 - Taller Yoga para profesores y funcionarios (Sala F-15)
    - Miércoles de 13:30 a 14:30
 
-<a name="fcfm-jump"></a>
+
+Los cursos inician 7 de agosto 2017. <a name="fcfm-jump"></a>
  Para más informaciones contactanos por el correo [yoga.fau@gmail.com](mailto:yoga.fau@gmail.com?subject=Pregunta%20desde%20web%20Yoga%20Beauchef).
 
 ## FCFM
+
+*Los cursos están en preparación. Esperamos seguir el mismo horario
+ durante Primavera 2017. Siguintes informaciones pertenecen al
+ semestre Otoño 2017:*
 
 Taller del grupo organizado Yoga Beauchef. **Elige** cualquier combinación o todos los días de nuestro taller:
 
@@ -37,10 +40,11 @@ Taller del grupo organizado Yoga Beauchef. **Elige** cualquier combinación o to
  - Miércoles: 18:30-20:00. Beauchef 851 piso -3, Sala Dojo
  - Viernes: 18:30-20:00. Beauchef 851 piso -3, Sala Dojo
 
-Para las **consultas** utiliza el correo de Juraj y Vicente:
+Para las **consultas** utiliza el correo de Juraj:
 [YogaBeauchef@ing.uchile.cl](mailto:YogaBeauchef@ing.uchile.cl?subject=Pregunta%20desde%20web%20Yoga%20Beauchef).
 
-Para **inscribirte**, hoy y durante todo el semestre, completa [el siguiente formulario](http://eepurl.com/cD1YXj).
+<!-- Para **inscribirte**, hoy y durante todo el semestre, completa -->
+<!-- [el siguiente formulario](http://eepurl.com/cD1YXj). -->
 
 El taller **no requiere un conocimiento previo de yoga** y está
 abierto para todos los interesados. En la descripción del taller encuentras más información de [los implementos necesarios](taller#implementos) para las clases.
@@ -50,7 +54,6 @@ abierto para todos los interesados. En la descripción del taller encuentras má
 
 <p class="text-center">
 <img src="{{ site.url }}/assets/img/person/juraj.jpg" class="img-responsive img-thumbnail" alt="Juraj Kubelka" width="100" height="100" />
-<img src="{{ site.url }}/assets/img/person/vicente.png" class="img-responsive img-thumbnail" alt="Vicente Ponce Toro" width="100" height="100" />
 </p>
 
 
@@ -59,6 +62,7 @@ abierto para todos los interesados. En la descripción del taller encuentras má
 - Cursos Curriculares (Sala multiuso):
    - Martes y Viernes de 09:40 a 11:10
 
+El curso inició 25 de julio 2017.
 <a name="jgm-jump"></a>
  Para más informaciones contactanos por el correo [dreyes@fen.uchile.cl](mailto:dreyes@fen.uchile.cl?subject=Pregunta%20desde%20web%20Yoga%20Beauchef).
 
@@ -71,7 +75,7 @@ abierto para todos los interesados. En la descripción del taller encuentras má
    - Martes y Viernes de 13:30 a 14:30 
    - Martes y Jueves de 18:30 a 19:30
 
-Los cursos curriculares y los talleres comunitarios se imparten en
+Los cursos inician 8 de agosto 2017. Los cursos curriculares y los talleres comunitarios se imparten en
 sala Multiuso del campo deportivo. Para más informaciones contáctanos
 por el [drh.yoga@gmail.com](mailto:drh.yoga@gmail.com?subject=Pregunta%20desde%20web%20Yoga%20Beauchef).
 
