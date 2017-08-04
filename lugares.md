@@ -24,36 +24,34 @@ Yoga & Desarrollo Humano imparte clases curriculares y talleres en varias facult
 - Taller Yoga para profesores y funcionarios (Sala F-15)
    - Miércoles de 13:30 a 14:30
 
-
 Los cursos inician 7 de agosto 2017. <a name="fcfm-jump"></a>
  Para más informaciones contactanos por el correo [yoga.fau@gmail.com](mailto:yoga.fau@gmail.com?subject=Pregunta%20desde%20web%20Yoga%20Beauchef).
 
 ## FCFM
 
-*Los cursos están en preparación. Esperamos seguir el mismo horario
- durante Primavera 2017. Siguintes informaciones pertenecen al
- semestre Otoño 2017:*
-
-Taller del grupo organizado Yoga Beauchef. **Elige** cualquier combinación o todos los días de nuestro taller:
+El taller del grupo organizado Yoga Beauchef se inica 14 de agosto 2017. **Elige** cualquier combinación o todos los días de nuestro taller:
 
  - Lunes: 18:30-20:00. Beauchef 850, Zócalo Hall Sur
  - Miércoles: 18:30-20:00. Beauchef 851 piso -3, Sala Dojo
  - Viernes: 18:30-20:00. Beauchef 851 piso -3, Sala Dojo
 
-Para las **consultas** utiliza el correo de Juraj:
-[YogaBeauchef@ing.uchile.cl](mailto:YogaBeauchef@ing.uchile.cl?subject=Pregunta%20desde%20web%20Yoga%20Beauchef).
-
-<!-- Para **inscribirte**, hoy y durante todo el semestre, completa -->
-<!-- [el siguiente formulario](http://eepurl.com/cD1YXj). -->
-
-El taller **no requiere un conocimiento previo de yoga** y está
-abierto para todos los interesados. En la descripción del taller encuentras más información de [los implementos necesarios](taller#implementos) para las clases.
+Para **inscribirte**, hoy y durante todo el semestre, completa
+[el siguiente formulario]({{ site.url }}/inscribir-fcfm.html).
 
 <a name="fen-jump"></a>
  El taller tiene **costo** alrededor de mil pesos por una clase. También ofrecemos descuentos por pagos mensuales. Al inscribirse, recibirás los detalles del curso, incluyendo el valor y forma de pago.
 
+El taller **no requiere un conocimiento previo de yoga** y está
+abierto para todos los interesados. En la descripción del taller encuentras más información de [los implementos necesarios](taller#implementos) para las clases.
+
+Para las **consultas** utiliza el correo:
+[YogaBeauchef@ing.uchile.cl](mailto:YogaBeauchef@ing.uchile.cl?subject=Pregunta%20desde%20web%20Yoga%20Beauchef).
+
 <p class="text-center">
-<img src="{{ site.url }}/assets/img/person/juraj.jpg" class="img-responsive img-thumbnail" alt="Juraj Kubelka" width="100" height="100" />
+<img src="{{ site.url }}/assets/img/person/juraj.jpg"
+class="img-responsive img-thumbnail" alt="Juraj Kubelka" width="100"
+height="100" /><br />
+Juraj
 </p>
 
 
