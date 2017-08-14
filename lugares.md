@@ -29,7 +29,7 @@ Los cursos inician 7 de agosto 2017. <a name="fcfm-jump"></a>
 
 ## FCFM
 
-El taller del grupo organizado Yoga Beauchef se inica 14 de agosto 2017. **Elige** cualquier combinación o todos los días de nuestro taller:
+El taller del grupo organizado Yoga Beauchef se inica el miércoles 16 de agosto 2017. **Elige** cualquier combinación o todos los días de nuestro taller:
 
  - Lunes: 18:30-20:00. Beauchef 850, Zócalo Hall Sur
  - Miércoles: 18:30-20:00. Beauchef 851 piso -3, Sala Dojo
