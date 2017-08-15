@@ -85,5 +85,5 @@ Para la práctica necesitas una ropa cómoda y un mat (colchón). Si no tienes u
 
 <p class="text-center">
 <a class="btn btn-primary btn-lg" href="lugares.html" role="button">Lugares en Universidad de Chile</a>
-<a class="btn btn-primary btn-lg" href="http://eepurl.com/cD1YXj" role="button">Inscripciones FCFM</a>
+<a class="btn btn-primary btn-lg" href="inscribir-fcfm.html" role="button">Inscripciones FCFM</a>
 </p>
