@@ -9,4 +9,4 @@ categories: artículo
 
 Los cinco ritos, que practicamos al inicio de cada clase, vienen de una sabiduría antigua. Para complementar la práctica, aquí compartimos el [libro de Peter Kelder, llamado "El Secreto Tibetano De La Eterna Juventud."](https://drive.google.com/file/d/0BxMEzPh8uhdsUkoxdzlVYlY3OEk/view?usp=sharing) Es una novela de la historia del secreto tibetano, que además explica los ejercicios.
 
-A medida que practiques los ejercicios, te sentirás mejor contigo mismo, contigo misma, comprenderás la sabiduría presentada en el libro y el impacto a tu vida diaria.
+A medida que practiques los ejercicios, te sentirás mejor contigo mismo, contigo misma, comprenderás la sabiduría presentada en el libro y el impacto en tu vida diaria.
