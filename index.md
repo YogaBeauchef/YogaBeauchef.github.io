@@ -14,6 +14,8 @@ layout: page
   {% for post in site.posts limit: 2 %}
 <li>
   {% case post.categories.first %}
+    {% when 'documental' %}
+     <span class="glyphicon glyphicon-facetime-video" aria-hidden="true"></span>
     {% when 'evento' %}
      <span class="glyphicon glyphicon-calendar" aria-hidden="true"></span>
     {% when 'artículo' %}
