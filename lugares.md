@@ -38,8 +38,7 @@ El taller del grupo organizado Yoga Beauchef se inica el miércoles 16 de agosto
 Para **inscribirte**, hoy y durante todo el semestre, completa
 [el siguiente formulario]({{ site.url }}/inscribir-fcfm.html).
 
-<a name="fen-jump"></a>
- El taller tiene **costo** alrededor de mil pesos por una clase. También ofrecemos descuentos por pagos mensuales. Al inscribirse, recibirás los detalles del curso, incluyendo el valor y forma de pago.
+<a name="fen-jump"></a> El taller tiene **costo** alrededor de mil pesos por una clase y se paga con anticipación o el primer día de participación. También ofrecemos descuentos por pagos mensuales. Al inscribirse, recibirás los detalles del curso, incluyendo el valor y forma de pago.
 
 El taller **no requiere un conocimiento previo de yoga** y está
 abierto para todos los interesados. En la descripción del taller encuentras más información de [los implementos necesarios](taller#implementos) para las clases.
