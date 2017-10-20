@@ -45,7 +45,7 @@
 <div class="mc-field-group input-group">
     <strong>Elige días de participación </strong>
     <ul><li><input type="checkbox" value="1" name="group[5943][1]" id="mce-group[5943]-5943-0"> <label for="mce-group[5943]-5943-0">Lunes 18:30-20:00</label></li>
-<li><input type="checkbox" value="2" name="group[5943][2]" id="mce-group[5943]-5943-1"> <label for="mce-group[5943]-5943-1">Miércoles 18:00-19:30</label></li>
+<li><input type="checkbox" value="2" name="group[5943][2]" id="mce-group[5943]-5943-1"> <label for="mce-group[5943]-5943-1">Miércoles 18:30-20:00</label></li>
 <li><input type="checkbox" value="4" name="group[5943][4]" id="mce-group[5943]-5943-2"> <label for="mce-group[5943]-5943-2">Viernes 18:30-20:00</label></li>
 <li><input type="checkbox" value="8" name="group[5943][8]" id="mce-group[5943]-5943-3"> <label for="mce-group[5943]-5943-3">No lo sé todavía / participación esporádica</label></li>
 </ul>
