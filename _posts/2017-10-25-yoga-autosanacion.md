@@ -12,3 +12,11 @@ Te invitamos cordialmente al conversatorio *Yoga & Autosanación* el lunes, 6 de
 Compartiremos material audio-visual que aporta a la Autosanación desde la mirada científica, teórica y práctica, material que relacionaremos con nuestras prácticas regulares del Taller [Yoga & Desarrollo Humano]({{ site.url }}/detalles.html), con el propósito que tu descubras y desarrolles la capacidad dormida dentro de ti. Tu cuerpo, es la tecnología más desarrollada e inteligente que tienes a mano. ¿Cómo la tratas? Los computadores, celulares y otras tecnologías están muy lejos de hacer lo que tu cuerpo hace diariamente y amorosamente por ti.
 
 Te esperamos el lunes, **6 de noviembre 2017 desde las 18:30 en Beauchef 851 piso -1, sala B-06.** Pregunta en la guardia de la entrada, si tienes alguna duda con la ubicación de la sala dentro del edificio. *Invita a tus familiares y amigos!* El conversatorio está abierto para todos, no sólo para los participantes de Yoga & Desarrollo Humano. [Aquí te dejamos el afiche del evento]({{ site.url }}/assets/img/events/2017-yoga-autosanacion-afiche-grande.jpg) y [el evento en Facebook](https://www.facebook.com/events/1975000782780687) para que lo puedas compartir.
+
+## Material de Apoyo
+
+Aquí compartimos el material audio-visual que hemos visto durante el conversatorio. En la página de  [YouTube](https://www.youtube.com/watch?v=xlMHhbVqkh0), en la descripción del video, se encuentran enlaces para los videos originales, que contienen mayor información. 
+
+<div class="video-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xlMHhbVqkh0" frameborder="0" allowfullscreen></iframe>
+</div>
