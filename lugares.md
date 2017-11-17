@@ -24,12 +24,12 @@ Yoga & Desarrollo Humano imparte clases curriculares y talleres en varias facult
 - Taller Yoga para profesores y funcionarios (Sala F-15)
    - Miércoles de 13:30 a 14:30
 
-Los cursos inician 7 de agosto 2017. <a name="fcfm-jump"></a>
- Para más informaciones contactanos por el correo [yoga.fau@gmail.com](mailto:yoga.fau@gmail.com?subject=Pregunta%20desde%20web%20Yoga%20Beauchef).
+Los cursos **terminan el viernes 1 de diciembre 2017**. El taller sigue hasta el enero 2018. <a name="fcfm-jump"></a> Para más informaciones contactanos por el correo [yoga.fau@gmail.com](mailto:yoga.fau@gmail.com?subject=Pregunta%20desde%20web%20Yoga%20Beauchef).
 
 ## FCFM
 
-El taller del grupo organizado Yoga Beauchef se inica el miércoles 16 de agosto 2017. **Elige** cualquier combinación o todos los días de nuestro taller:
+El taller del grupo organizado Yoga Beauchef **termina el viernes 24 de noviembre
+2017**. Hasta esta fecha **elige** cualquier combinación o todos los días de nuestro taller:
 
  - Lunes: 18:30-20:00. Beauchef 850 o 851, [la sala se confirma cada semana]({% post_url 2017-08-24-lugares %})
  - Miércoles: 18:30-20:00. Beauchef 851 piso -3, Sala Dojo
@@ -59,7 +59,7 @@ Juraj
 - Cursos Curriculares (Sala multiuso):
    - Martes y Viernes de 09:40 a 11:10
 
-El curso inició 25 de julio 2017.
+El curso **ya terminó en noviembre 2017**.
 <a name="jgm-jump"></a>
  Para más informaciones contactanos por el correo [dreyes@fen.uchile.cl](mailto:dreyes@fen.uchile.cl?subject=Pregunta%20desde%20web%20Yoga%20Beauchef).
 
@@ -72,9 +72,7 @@ El curso inició 25 de julio 2017.
    - Martes y Viernes de 13:30 a 14:30 
    - Martes y Jueves de 18:30 a 19:30
 
-Los cursos inician 8 de agosto 2017. Los cursos curriculares y los talleres comunitarios se imparten en
-sala Multiuso del campo deportivo. Para más informaciones contáctanos
-por el [drh.yoga@gmail.com](mailto:drh.yoga@gmail.com?subject=Pregunta%20desde%20web%20Yoga%20Beauchef).
+Los cursos y talleres **terminan jueves 7 de diciembre 2017**. Los talleres *probablemente* seguirán hasta el enero 2018 en otros horarios. Los cursos curriculares y los talleres comunitarios se imparten en sala Multiuso del campo deportivo. Para más informaciones contáctanos por el [drh.yoga@gmail.com](mailto:drh.yoga@gmail.com?subject=Pregunta%20desde%20web%20Yoga%20Beauchef).
 
 <p class="text-center">
 <a class="btn btn-primary btn-lg" href="articulos.html" role="button">Artículos</a>
