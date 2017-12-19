@@ -35,10 +35,11 @@ El curso **ya terminó en noviembre 2017**.
 
 ## JGM
 
-- Talleres Comunitarios:
-   - Horario por confirmar.
-
-Los cursos y talleres **ya terminaron en diciembre 2017**. Para más informaciones contáctanos por el [drh.yoga@gmail.com](mailto:drh.yoga@gmail.com?subject=Pregunta%20desde%20web%20Yoga%20Beauchef).
+- Talleres Comunitarios (Sala Multiuso del campo deportivo):
+   - Martes y Viernes de 13:30 a 14:30 
+   - Martes y Jueves de 18:30 a 19:30
+ 
+Los talleres **terminan a fines de diciembre 2017**, y *probablemente* seguirán en el enero 2018 en otros horarios. Para más informaciones contáctanos por el [drh.yoga@gmail.com](mailto:drh.yoga@gmail.com?subject=Pregunta%20desde%20web%20Yoga%20Beauchef).
 
 <p class="text-center">
 <a class="btn btn-primary btn-lg" href="articulos.html" role="button">Artículos</a>
