@@ -27,6 +27,13 @@ El taller sigue hasta el final de enero 2018. <a name="fcfm-jump"></a> Para más
 
 El taller del grupo organizado Yoga Beauchef **ya terminó en noviembre 2017**. Para las **consultas** utiliza el correo: [YogaBeauchef@ing.uchile.cl](mailto:YogaBeauchef@ing.uchile.cl?subject=Pregunta%20desde%20web%20Yoga%20Beauchef).
 
+<div class="alert alert-danger" role="alert"> <span class="glyphicon
+glyphicon-exclamation-sign" aria-hidden="true"></span> Para que sigue
+funcionado el grupo organizado Yoga Beauchef durante el semestre Otoño
+2018, necesitamos nuevos compañeros que se encargarán en la
+organización. Para mayor información de que consiste la organización,
+lee <a href="{% post_url 2018-01-14-nuevos-companeros %}">el siguente link</a>.</div>
+
 ## FEN
 
 El curso **ya terminó en noviembre 2017**.
@@ -34,12 +41,8 @@ El curso **ya terminó en noviembre 2017**.
  Para más informaciones contactanos por el correo [dreyes@fen.uchile.cl](mailto:dreyes@fen.uchile.cl?subject=Pregunta%20desde%20web%20Yoga%20Beauchef).
 
 ## JGM
-
-- Talleres Comunitarios (Sala Multiuso del campo deportivo):
-   - Martes y Viernes de 13:30 a 14:30 
-   - Martes y Jueves de 18:30 a 19:30
  
-Los talleres **terminan a fines de diciembre 2017**, y *probablemente* seguirán en el enero 2018 en otros horarios. Para más informaciones contáctanos por el [drh.yoga@gmail.com](mailto:drh.yoga@gmail.com?subject=Pregunta%20desde%20web%20Yoga%20Beauchef).
+Los talleres **terminaron en diciembre 2017**, y *probablemente* seguirán en el enero 2018 en otros horarios. Para más informaciones contáctanos por el [drh.yoga@gmail.com](mailto:drh.yoga@gmail.com?subject=Pregunta%20desde%20web%20Yoga%20Beauchef).
 
 <p class="text-center">
 <a class="btn btn-primary btn-lg" href="articulos.html" role="button">Artículos</a>
