@@ -30,7 +30,7 @@ El taller del grupo organizado Yoga Beauchef **ya terminó en noviembre 2017**. 
 <div class="alert alert-danger" role="alert"> <span class="glyphicon
 glyphicon-exclamation-sign" aria-hidden="true"></span> Para que sigue
 funcionado el grupo organizado Yoga Beauchef durante el semestre Otoño
-2018, necesitamos nuevos compañeros que se encargarán en la
+2018, necesitamos nuevos compañeros que se encargarán de la
 organización. Para mayor información de que consiste la organización,
 lee <a href="{% post_url 2018-01-14-nuevos-companeros %}">el siguente link</a>.</div>
 

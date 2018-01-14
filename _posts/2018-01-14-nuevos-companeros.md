@@ -9,7 +9,7 @@ Los encargados de los semestres anteriores ya no pueden seguir con la
 gestión de la organización del taller Yoga & Desarrollo Humano. Por
 este motivo buscamos nuevos estudiantes que se encarguen del grupo
 organizado Yoga Beauchef. Idealmente que serán unos dos o tres
-estudiantes de pre-grado.
+estudiantes de pre-grado de FCFM.
 
 Aquí compartimos lo que actualmente un encargado gestiona:
 - al inicio del semestre se coordina con el profesor Diego Reyes y
