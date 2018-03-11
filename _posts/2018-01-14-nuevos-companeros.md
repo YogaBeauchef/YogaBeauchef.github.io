@@ -19,4 +19,4 @@ Beneficios:
 - Al realizar [Karma Yoga]({{ site.url }}/detalles.html), tus cuerpos sutiles se limpian
 - Te permitirá profundizar el propósito de yoga y el sentido de la vida
 
-¿Te interesa? Escribenos al correo [YogaBeauchef@ing.uchile.cl](mailto:YogaBeauchef@ing.uchile.cl?subject=Interesado%20en%20la%20organización%20de%20Yoga%20Beauchef) y nos comunicamos para entregarte mayor información. *Nota: Entre 23 de febrero y 8 de marzo 2018 no podremos responder los correos. Responderemos lo más pronto posible a partir de 9 de marzo 2018.*
+¿Te interesa? Escribenos al correo [YogaBeauchef@ing.uchile.cl](mailto:YogaBeauchef@ing.uchile.cl?subject=Interesado%20en%20la%20organización%20de%20Yoga%20Beauchef) y nos comunicamos para entregarte mayor información.
