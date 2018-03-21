@@ -27,6 +27,11 @@ Esperamos informaciones para el semestre Otoño 2018.
 
 <!-- El taller del grupo organizado Yoga Beauchef **ya terminó en noviembre 2017**. Para las **consultas** utiliza el correo: [YogaBeauchef@ing.uchile.cl](mailto:YogaBeauchef@ing.uchile.cl?subject=Pregunta%20desde%20web%20Yoga%20Beauchef). -->
 
+Con mayor probabilidad el taller de Yoga & Desarrollo Humano comenzará
+el día lunes 2 de abril 2018 con el horario de los días lunes y
+miércoles de 18:30 a 20:00. *Sin embargo, todavía estamos buscando un
+nuevo miembro del equipo para garantizar una ejecución sin problemas durante todo el semestre:*
+
 <div class="alert alert-danger" role="alert"> <span class="glyphicon
 glyphicon-exclamation-sign" aria-hidden="true"></span> Para que siga
 funcionado el grupo organizado “Yoga Beauchef” durante el año 2018,
