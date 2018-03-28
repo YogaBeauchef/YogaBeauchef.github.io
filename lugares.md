@@ -27,16 +27,40 @@ Esperamos informaciones para el semestre Otoño 2018.
 
 <!-- El taller del grupo organizado Yoga Beauchef **ya terminó en noviembre 2017**. Para las **consultas** utiliza el correo: [YogaBeauchef@ing.uchile.cl](mailto:YogaBeauchef@ing.uchile.cl?subject=Pregunta%20desde%20web%20Yoga%20Beauchef). -->
 
-Con mayor probabilidad el taller de Yoga & Desarrollo Humano comenzará
-el día lunes 2 de abril 2018 con el horario de los días lunes y
-miércoles de 18:30 a 20:00. *Sin embargo, todavía estamos buscando un
-nuevo miembro del equipo para garantizar una ejecución sin problemas durante todo el semestre:*
-
 <div class="alert alert-danger" role="alert"> <span class="glyphicon
 glyphicon-exclamation-sign" aria-hidden="true"></span> Para que siga
 funcionado el grupo organizado “Yoga Beauchef” durante el año 2018,
 necesitamos nuevos compañeros que se encarguen de la
 organización. Para mayor información lee <a href="{% post_url 2018-01-14-nuevos-companeros %}">el siguiente link</a>.</div>
+
+El taller del grupo organizado Yoga Beauchef **comienza el lunes 2 de abril 2018**. Para participar **elige** cualquier combinación o todos los días de nuestro taller:
+
+ - Lunes: 18:30-20:00. Beauchef 851  piso -3, Sala Dojo
+ - Miércoles: 18:30-20:00. Beauchef 851 piso -3, Sala Dojo
+ - Viernes: 18:30-20:00. Sala por confirmar.
+
+Para **inscribirte**, hoy y durante todo el semestre, completa
+[el siguiente formulario]({{ site.url }}/inscribir-fcfm.html).
+
+<a name="fen-jump"></a>El taller tiene el siguente **costo:**
+
+- 15.000.- Valor mensual, 3 clases semanales (12 clases en total, $ 1.250.- c/u)
+- 12.000.- Valor mensual, 2 clases semanales (8 clases en total, $ 1.500.- c/u)
+-  7.000.- Valor mensual, 1 clase a la semana (4 clases en total, $ 1.750.- c/u)
+-  2.000.- Valor de una clase, sin convenio mensual.
+
+Las clases pagadas no son recuperables, a excepción de fuerza mayor que debe ser justificada con certificado validado. Los que se inscriben a una o dos clases semanales, pueden recuperar clase perdida la misma semana. Debe haber mínimo 10 alumnos inscritos, para que el taller se mantenga durante este año 2018. Al inscribirse, recibirás los detalles del curso, incluyendo la forma de pago.
+
+El taller **no requiere un conocimiento previo de yoga** y está abierto para todos los interesados. En la descripción del taller encuentras más información de [los implementos necesarios](taller#implementos) para las clases.
+
+Para las **consultas** utiliza el correo: [YogaBeauchef@ing.uchile.cl](mailto:YogaBeauchef@ing.uchile.cl?subject=Pregunta%20desde%20web%20Yoga%20Beauchef).
+
+<!-- <p class="text-center"> -->
+<!-- <img src="{{ site.url }}/assets/img/person/juraj.jpg" -->
+<!-- class="img-responsive img-thumbnail" alt="Juraj Kubelka" width="100" -->
+<!-- height="100" /><br /> -->
+<!-- Juraj -->
+<!-- </p> -->
 
 ## FEN
 
