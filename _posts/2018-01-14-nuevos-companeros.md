@@ -5,7 +5,7 @@ date:  2018-01-14 10:00:00 -0300
 categories: noticia
 ---
 
-Por diversos motivos, quienes se encargaron de gestionar el Taller “Yoga & Desarrollo Humano” durante 2017 no podrán seguir haciéndolo durante 2018. Es el motivo, por el que convocamos a nuevos estudiantes que se encarguen de la gestión del mismo, idealmente que sean dos o tres estudiantes de pre-grado de FCFM.
+Por diversos motivos, quienes se encargaron de gestionar el Taller “Yoga & Desarrollo Humano” durante 2017 no podrán seguir haciéndolo durante 2018. Por lo que queremos invitar a los nuevos y antigüos estudiantes que se encarguen de la gestión del mismo, idealmente que sean dos o tres estudiantes de pre-grado de FCFM.
 
 Aquí las tareas que conforman la gestión:
 - Coordinar al inicio del semestre con el profesor Diego Reyes los horarios.
