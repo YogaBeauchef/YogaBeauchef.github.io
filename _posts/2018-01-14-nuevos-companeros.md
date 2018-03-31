@@ -13,7 +13,7 @@ Aquí las tareas que conforman la gestión:
 - Enviar un correo cada semana a  [SAE](http://escuela.ingenieria.uchile.cl/vida-estudiantil/126262/presentacion), solicitando salas para el taller.
 - Preparar la sala asignada; trasladar desde la bodega el parlante y los mats que disponemos para la clase.
 - Asegurarse que las salas queden limpias y ordenadas al término de la clase.
-- Comunicarse con ella una encargada de los grupos organizados, que está a cargo de las actividades extra-programáticas, por ejemplo Festival GGOO.
+- Comunicarse con la encargada de los grupos organizados, que está a cargo de las actividades extra-programáticas, por ejemplo Festival GGOO.
 
 Beneficios:
 - Al realizar [Karma Yoga]({{ site.url }}/detalles.html), tus cuerpos sutiles se limpian
