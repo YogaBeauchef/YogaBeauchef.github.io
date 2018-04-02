@@ -7,21 +7,13 @@ layout: page
 
 Yoga & Desarrollo Humano imparte clases curriculares y talleres en varias facultades de la Universidad de Chile:
 
-<a name="fau-jump"></a>
+<a name="fcfm-jump"></a>
 <p class="text-center">
-<a class="btn btn-default" href="#fau-jump" role="button">FAU</a>
 <a class="btn btn-default" href="#fcfm-jump" role="button">FCFM</a>
-<a class="btn btn-default" href="#fen-jump" role="button">FEN</a>
+<a class="btn btn-default" href="#fau-jump" role="button">FAU</a>
 <a class="btn btn-default" href="#jgm-jump" role="button">JGM</a>
 </p>
 
-
-## FAU
-
-Esperamos informaciones para el semestre Otoño 2018.
-
-<a name="fcfm-jump"></a>
-<!-- Para más informaciones contactanos por el correo [yoga.fau@gmail.com](mailto:yoga.fau@gmail.com?subject=Pregunta%20desde%20web%20Yoga%20Beauchef). -->
 
 ## FCFM
 
@@ -42,7 +34,8 @@ El taller del grupo organizado Yoga Beauchef **comienza el lunes 2 de abril 2018
 Para **inscribirte**, hoy y durante todo el semestre, completa
 [el siguiente formulario]({{ site.url }}/inscribir-fcfm.html).
 
-<a name="fen-jump"></a>El taller tiene el siguente **costo:**
+<a name="fau-jump"></a>
+El taller tiene el siguente **costo:**
 
 - 15.000.- Valor mensual, 3 clases semanales (12 clases en total, $ 1.250.- c/u)
 - 12.000.- Valor mensual, 2 clases semanales (8 clases en total, $ 1.500.- c/u)
@@ -62,18 +55,30 @@ Para las **consultas** utiliza el correo: [YogaBeauchef@ing.uchile.cl](mailto:Yo
 <!-- Juraj -->
 <!-- </p> -->
 
-## FEN
 
-Esperamos informaciones para el semestre Otoño 2018.
+## FAU
+
+- Cursos Curriculares (Sala F-15):
+   - Lunes y Jueves de 15:00 a 16:30
+   - Martes y Viernes de 15:00 a 16:30
+- Taller Yoga para profesores y funcionarios (Sala F-15)
+   - Miércoles de 13:30 a 14:30
 
 <a name="jgm-jump"></a>
- <!-- Para más informaciones contactanos por el correo [dreyes@fen.uchile.cl](mailto:dreyes@fen.uchile.cl?subject=Pregunta%20desde%20web%20Yoga%20Beauchef). -->
+ Para más informaciones contactanos por el correo [yoga.fau@gmail.com](mailto:yoga.fau@gmail.com?subject=Pregunta%20desde%20web%20Yoga%20Beauchef).
+
 
 ## JGM
 
-Esperamos informaciones para el semestre Otoño 2018.
 
-<!-- Para más informaciones contáctanos por el [drh.yoga@gmail.com](mailto:drh.yoga@gmail.com?subject=Pregunta%20desde%20web%20Yoga%20Beauchef). -->
+- Cursos Curriculares:
+  - Martes y Viernes de 12:00 a 13:30
+  - Martes y Jueves de 17:00 a 18:30
+- Talleres Comunitarios:
+   - Martes y Viernes de 13:30 a 14:30 
+   - Martes y Jueves de 18:30 a 19:30
+
+Para más informaciones contáctanos por el [drh.yoga@gmail.com](mailto:drh.yoga@gmail.com?subject=Pregunta%20desde%20web%20Yoga%20Beauchef).
 
 <p class="text-center">
 <a class="btn btn-primary btn-lg" href="articulos.html" role="button">Artículos</a>
