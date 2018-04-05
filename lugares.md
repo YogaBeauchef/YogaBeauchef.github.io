@@ -31,10 +31,9 @@ El taller del grupo organizado Yoga Beauchef **comenzó el lunes 2 de abril 2018
  - Miércoles: 18:30-20:00
  - Viernes: 18:30-20:00
 
-Salas se asignan cada semana y lo [publicamos aquí semanalmente](fcfm-salas.md).
+**Salas** se asignan cada semana y lo [publicamos aquí semanalmente](fcfm-salas.md).
 
-Para **inscribirte**, hoy y durante todo el semestre, completa
-[el siguiente formulario]({{ site.url }}/inscribir-fcfm.html).
+Para **inscribirte**, hoy y durante todo el semestre, completa [el siguiente formulario]({{ site.url }}/inscribir-fcfm.html).
 
 <a name="fau-jump"></a>
 El taller tiene el siguente **costo:**
