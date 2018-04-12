@@ -7,9 +7,9 @@ Fechas correspondientes:
 - Viernes 13 de abril 2018, Dojo
 - ~~Miércoles 11 de abril 2018, [clase suspendida](https://mailchi.mp/e7cbba59a002/yoga-beauchef-suspende-clase-miercoles-11-de-abril-2019)~~
 - Lunes 9 de abril 2018, Sala de Artes
-- Viernes 6 de abril 2018, Dojo
-- Miércoles 4 de abril 2018, Dojo
-- Lunes 2 de abril 2018, Dojo
+<!-- - Viernes 6 de abril 2018, Dojo -->
+<!-- - Miércoles 4 de abril 2018, Dojo -->
+<!-- - Lunes 2 de abril 2018, Dojo -->
 
 Salas:
 - **Dojo.** Beauchef 851 piso -3, Sala Dojo.
