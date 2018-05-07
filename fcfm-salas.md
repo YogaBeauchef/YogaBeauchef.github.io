@@ -1,9 +1,13 @@
 El lugar para la práctica en Beauchef se confirma cada semana. Por este motivo actualizamos esta página cada semana y te recomendamos mirarla antes de la práctica.
 
 Fechas correspondientes: 
-- ~~Lunes 30 de abril 2018, feriado~~
-- Miércoles 2 de mayo 2018, Sala Beauchef
-- Viernes 4 de mayo 2018, Dojo
+- Lunes 7 de mayo 2018, Sala de Artes
+- Miércoles 9 de mayo 2018, Sala Dojo
+- Viernes 11 de mayo 2018, Sala de Artes
+
+<!-- - ~~Lunes 30 de abril 2018, feriado~~ -->
+<!-- - Miércoles 2 de mayo 2018, Sala Beauchef -->
+<!-- - Viernes 4 de mayo 2018, Dojo -->
 
 <!-- - Viernes 27 de abril 2018, Sala Artes -->
 <!-- - Miércoles 25 de abril 2018, Dojo -->
