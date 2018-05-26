@@ -1,9 +1,13 @@
 El lugar para la práctica en Beauchef se confirma cada semana. Por este motivo actualizamos esta página cada semana y te recomendamos mirarla antes de la práctica.
 
 Fechas correspondientes: 
-- Lunes 14 de mayo 2018, Sala de Artes
-- Miércoles 16 de mayo 2018, Sala Dojo
-- Viernes 18 de mayo 2018, Sala de Artes
+- Lunes 28 de mayo 2018, Sala de Artes
+- Miércoles 30 de mayo 2018, Sala Dojo
+- Viernes 1 de junio 2018, Sala de Artes
+
+<!-- - Lunes 14 de mayo 2018, Sala de Artes  -->
+<!-- - Miércoles 16 de mayo 2018, Sala Dojo  -->
+<!-- - Viernes 18 de mayo 2018, Sala de Artes  -->
 
 <!-- - Lunes 7 de mayo 2018, Sala de Artes  -->
 <!-- - Miércoles 9 de mayo 2018, Sala Dojo  -->
