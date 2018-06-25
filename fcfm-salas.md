@@ -1,9 +1,13 @@
 El lugar para la práctica en Beauchef se confirma cada semana. Por este motivo actualizamos esta página cada semana y te recomendamos mirarla antes de la práctica.
 
 Fechas correspondientes:
-- Lunes 18 de junio 2018, Sala Beauchef
-- Miércoles 20 de junio 2018, Sala Dojo ([Surya Namaskar]({% post_url 2018-06-18-surya-namaskar %}))
-- Viernes 22 de junio 2018, Sala de Artes
+- Lunes 25 de junio 2018, Sala Beauchef
+- Miércoles 27 de junio 2018, Sala Dojo
+- Viernes 29 de junio 2018, Sala Dojo
+
+<!-- - Lunes 18 de junio 2018, Sala Beauchef  -->
+<!-- - Miércoles 20 de junio 2018, Sala Dojo ([Surya Namaskar]({% post_url 2018-06-18-surya-namaskar %}))  -->
+<!-- - Viernes 22 de junio 2018, Sala de Artes  -->
 
 <!-- - Lunes 11 de junio 2018, Sala Beauchef  -->
 <!-- - Miércoles 13 de junio 2018, Sala Dojo  -->
