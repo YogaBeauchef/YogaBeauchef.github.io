@@ -1,7 +1,7 @@
 El lugar para la práctica en Beauchef se confirma cada semana. Por este motivo actualizamos esta página cada semana y te recomendamos mirarla antes de la práctica.
 
 Fechas correspondientes:
-- Lunes 9 de julio 2018, Sala Beauchef
+- Lunes 9 de julio 2018, Sala Multiuso, Zocalo, Hall Sur, Edificio Escuela, Beauchef 850
 - Miércoles 11 de julio 2018, Sala Dojo
 - Viernes 13 de julio 2018, Sala de Artes
 
