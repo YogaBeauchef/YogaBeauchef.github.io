@@ -1,9 +1,9 @@
 # theme: jekyll-theme-cayman
-theme: minima
+theme: minima 
 # theme: beautiful-jekyll-theme
 # https://github.com/daattali/beautiful-jekyll#readme
 
-url: https://yogabeauchef.github.io
+url: https://yogabeauchef.cl
 
 lang: es
 timezone: Chile/Santiago
