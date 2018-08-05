@@ -2,9 +2,13 @@ El lugar para la práctica en Beauchef se confirma cada semana. Por este motivo 
 
 Fechas correspondientes:
 
-- Lunes 30 de julio 2018, suspendido -->
-- Miércoles 1 de agosto 2018, Sala Dojo
-- Viernes 3 de agosto 2018, Sala de Aeróbica
+- Lunes 6 de agosto 2018, Sala Beauchef
+- Miércoles 8 de agosto 2018, Sala Dojo
+- Viernes 10 de agosto 2018, Sala de Aeróbica
+
+<!-- - Lunes 30 de julio 2018, suspendido -->
+<!-- - Miércoles 1 de agosto 2018, Sala Dojo -->
+<!-- - Viernes 3 de agosto 2018, Sala de Aeróbica -->
 
 <!-- - Lunes 9 de julio 2018, Sala Multiuso, Zocalo, Hall Sur, Edificio Escuela, Beauchef 850 -->
 <!-- - Miércoles 11 de julio 2018, Sala Dojo -->
