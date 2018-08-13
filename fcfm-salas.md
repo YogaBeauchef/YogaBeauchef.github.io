@@ -2,9 +2,13 @@ El lugar para la práctica en Beauchef se confirma cada semana. Por este motivo 
 
 Fechas correspondientes:
 
-- Lunes 6 de agosto 2018, Sala Beauchef
-- Miércoles 8 de agosto 2018, Sala Dojo
-- Viernes 10 de agosto 2018, Sala de Aeróbica
+- Lunes 13 de agosto 2018, Sala de Multiuso
+- Miércoles 15 de agosto 2018, feriado
+- Viernes 17 de agosto 2018, Sala de Aeróbica
+
+<!--- Lunes 6 de agosto 2018, Sala Beauchef-->
+<!--- Miércoles 8 de agosto 2018, Sala Dojo-->
+<!--- Viernes 10 de agosto 2018, Sala de Aeróbica-->
 
 <!-- - Lunes 30 de julio 2018, suspendido -->
 <!-- - Miércoles 1 de agosto 2018, Sala Dojo -->
@@ -67,7 +71,8 @@ Salas:
 - **Dojo.** Beauchef 851 piso -3, Sala Dojo.
 - **Sala Beauchef 851.** La sala está ingresando por Beauchef 851, cruzando el patio (los árboles), y al fondo encontraras la sala Beauchef. Con cualquier duda, te recomendamos preguntar a la guardia.
 - **Sala de Artes.** Beauchef 851 piso -3, atrás de oficinas, cerca del ascensor sur-este.
-- **Sala de Aeróbica** Beauchef 851 piso -3, atrás de la sala de pesas, cerca del ascensor sur-poniente
+- **Sala de Aeróbica.** Beauchef 851 piso -3, atrás de la sala de pesas, cerca del ascensor sur-poniente
+- **Sala de Multiuso.** Beauchef 850 piso -1, Edifico de Ingeniera, Hall Sur
 
 <p class="text-center">
 <a class="btn btn-primary btn-lg" href="{{ site.url }}/lugares.html" role="button">Lugares en Universidad de Chile</a>
