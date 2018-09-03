@@ -2,9 +2,11 @@ El lugar para la práctica en Beauchef se confirma cada semana. Por este motivo 
 
 Fechas correspondientes:
 
-- Lunes 27 de agosto 2018, Sala de Multiuso
-- Miércoles 29 de agosto 2018, Sala Dojo
-- Viernes 31 de agosto 2018, Sala de Aeróbica
+Esperamos abrir el taller al principio del Octubre 2018.
+
+<!--- Lunes 27 de agosto 2018, Sala de Multiuso-->
+<!--- Miércoles 29 de agosto 2018, Sala Dojo-->
+<!--- Viernes 31 de agosto 2018, Sala de Aeróbica-->
 
 <!--- Lunes 20 de agosto 2018, Sala de Multiuso-->
 <!--- Miércoles 22 de agosto 2018, Sala Dojo-->
