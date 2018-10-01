@@ -8,7 +8,7 @@ We recommend moving this block and the preceding CSS link to the HEAD of your HT
 <div id="mc_embed_signup">
 <form action="https://github.us14.list-manage.com/subscribe/post?u=d287f74647e40cba1b56437bf&amp;id=9cb0777a5b" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
 <div id="mc_embed_signup_scroll">
-<h2>Subscribe to our mailing list</h2>
+<h2>Inscripción para Yoga Beauchef, Primavera 2018</h2>
 <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
 <div class="mc-field-group">
 <label for="mce-EMAIL">Correo Electrónico  <span class="asterisk">*</span>
@@ -44,10 +44,10 @@ We recommend moving this block and the preceding CSS link to the HEAD of your HT
 </div>
 <div class="mc-field-group input-group">
 <strong>Elige días de participación </strong>
-<ul><li><input type="checkbox" value="1" name="group[8211][1]" id="mce-group[8211]-8211-0"><label for="mce-group[8211]-8211-0">Lunes 18:30-20:00</label></li>
-<li><input type="checkbox" value="2" name="group[8211][2]" id="mce-group[8211]-8211-1"><label for="mce-group[8211]-8211-1">Miércoles 18:30-20:00</label></li>
-<li><input type="checkbox" value="4" name="group[8211][4]" id="mce-group[8211]-8211-2"><label for="mce-group[8211]-8211-2">Viernes 18:30-20:00</label></li>
-<li><input type="checkbox" value="8" name="group[8211][8]" id="mce-group[8211]-8211-3"><label for="mce-group[8211]-8211-3">No lo sé todavía / participación esporádica</label></li>
+<ul><li><input type="checkbox" value="1" name="group[8211][1]" id="mce-group[8211]-8211-0"><label for="mce-group[8211]-8211-0"> Lunes 18:30-20:00</label></li>
+<li><input type="checkbox" value="2" name="group[8211][2]" id="mce-group[8211]-8211-1"><label for="mce-group[8211]-8211-1"> Miércoles 18:30-20:00</label></li>
+<li><input type="checkbox" value="4" name="group[8211][4]" id="mce-group[8211]-8211-2"><label for="mce-group[8211]-8211-2"> Viernes 18:30-20:00</label></li>
+<li><input type="checkbox" value="8" name="group[8211][8]" id="mce-group[8211]-8211-3"><label for="mce-group[8211]-8211-3"> No lo sé todavía / participación esporádica</label></li>
 </ul>
 </div>
 <div id="mce-responses" class="clear">
