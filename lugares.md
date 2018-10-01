@@ -60,7 +60,7 @@ Para las **consultas** utiliza el correo: [YogaBeauchef@ing.uchile.cl](mailto:Yo
 ## FAU
 
 - Cursos Curriculares (Sala F-15):
-   - Lunes y Jueves de 15:00 a 16:30
+   - Martes y Jueves de 08:30 a 10:00
    - Martes y Viernes de 15:00 a 16:30
 - Taller Yoga para profesores y funcionarios (Sala F-15)
    - Miércoles de 13:30 a 14:30
