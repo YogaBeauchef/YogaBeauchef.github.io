@@ -31,7 +31,7 @@ El taller del grupo organizado Yoga Beauchef **comienza el día 3 de octubre 201
 - Miércoles: 18:30-20:00
 - Viernes: 18:30-20:00
 
-**Salas** se asignan cada semana y lo [publicamos aquí semanalmente]({{ site.url }}/fcfm-salas.md).
+**Salas** se asignan cada semana y lo [publicamos aquí semanalmente]({{ site.url }}/fcfm-salas.html).
 
 <a name="fau-jump"></a>
 El taller tiene el siguente **costo:**

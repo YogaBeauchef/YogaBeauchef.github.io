@@ -73,4 +73,5 @@ exclude:
   - README.md
   - CNAME
   - USAGE.md
-  
+  - vendor
+   

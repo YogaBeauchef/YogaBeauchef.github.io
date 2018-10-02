@@ -1,7 +1,10 @@
 ---
 title: 'Lugares en FCFM'
+print-title: false
 layout: page
 ---
+
+# Lugares de Práctica en FCFM
 
 El lugar para la práctica en Beauchef se confirma cada semana. Por este motivo actualizamos esta página cada semana y te recomendamos mirarla antes de la práctica.
 
