@@ -25,7 +25,7 @@ funcionado el grupo organizado “Yoga Beauchef” durante el año 2018,
 necesitamos nuevos compañeros que se encarguen de la
 organización. Para mayor información lee <a href="{% post_url 2018-01-14-nuevos-companeros %}">el siguiente link</a>.</div>
 
-El taller del grupo organizado Yoga Beauchef **comienza el día 3 de octubre 2018**. Para participar **elige** cualquier combinación o todos los días de nuestro taller e **[inscríbete]({{ site.url }}/inscribir-fcfm.html)**, hoy o durante todo el semestre. Horarios del taller:
+El taller del grupo organizado Yoga Beauchef **comienza el día 3 de octubre del 2018**. Para participar **[inscríbete]({{ site.url }}/inscribir-fcfm.html)** y **elige** cualquier combinación de los días de nuestro taller. Inscripciones se realizaran durante todo el semestre. Horarios del taller:
 
 - Lunes: 18:30-20:00
 - Miércoles: 18:30-20:00
