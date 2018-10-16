@@ -10,15 +10,15 @@ El lugar para la práctica en Beauchef se confirma cada semana. Por este motivo 
 
 Fechas correspondientes:
 
-- Lunes 8 de octubre 2018, Hall Central -3, Beauchef 851, Área de Deporte
-- Miércoles 10 de octubre 2018, Sala Dojo
-- Viernes 12 de octubre 2018, Sala de Aeróbica
+- Lunes 15 de octubre 2018, Feriado
+- Miércoles 17 de octubre 2018, Sala Dojo
+- Viernes 19 de octubre 2018, Sala Aeróbica
 
 Salas:
 - **Dojo.** Beauchef 851 piso -3, Sala Dojo.
 - **Sala Beauchef 851.** La sala está ingresando por Beauchef 851, cruzando el patio (los árboles), y al fondo encontraras la sala Beauchef. Con cualquier duda, te recomendamos preguntar a la guardia.
 - **Sala de Artes.** Beauchef 851 piso -3, atrás de oficinas, cerca del ascensor sur-este.
-- **Sala de Aeróbica.** Beauchef 851 piso -3, atrás de la sala de pesas, cerca del ascensor sur-poniente
+- **Sala Aeróbica.** Beauchef 851 piso -3, atrás de la sala de pesas, cerca del ascensor sur-poniente
 - **Sala de Multiuso.** Beauchef 850 piso -1, Edifico de Ingeniera, Hall Sur
 
 <p class="text-center">
