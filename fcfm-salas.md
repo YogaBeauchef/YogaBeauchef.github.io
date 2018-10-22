@@ -10,9 +10,9 @@ El lugar para la práctica en Beauchef se confirma cada semana. Por este motivo 
 
 Fechas correspondientes:
 
-- Lunes 15 de octubre 2018, Feriado
-- Miércoles 17 de octubre 2018, Sala Dojo
-- Viernes 19 de octubre 2018, Sala Aeróbica
+- Lunes 22 de octubre 2018, Sala S-05, Beauchef 850, piso -1
+- Miércoles 24 de octubre 2018, Sala Dojo
+- Viernes 26 de octubre 2018, Sala Aeróbica
 
 Salas:
 - **Dojo.** Beauchef 851 piso -3, Sala Dojo.
