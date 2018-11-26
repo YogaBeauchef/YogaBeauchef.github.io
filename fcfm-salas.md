@@ -10,9 +10,9 @@ El lugar para la práctica en Beauchef se confirma cada semana. Por este motivo 
 
 Fechas correspondientes:
 
-- Lunes 19 de noviembre 2018, suspendido
-- Miércoles 21 de noviembre 2018, Sala de Multiuso
-- Viernes 23 de noviembre 2018, Sala Aeróbica
+- Lunes 26 de noviembre 2018, Cafetería de Beauchef 851
+- Miércoles 28 de noviembre 2018, Cafetería de Beauchef 851
+- Viernes 30 de noviembre 2018, Sala Aeróbica
 
 Salas:
 - **Dojo.** Beauchef 851 piso -3, Sala Dojo.
@@ -20,6 +20,7 @@ Salas:
 - **Sala de Artes.** Beauchef 851 piso -3, atrás de oficinas, cerca del ascensor sur-este.
 - **Sala Aeróbica.** Beauchef 851 piso -3, atrás de la sala de pesas, cerca del ascensor sur-poniente
 - **Sala de Multiuso.** Beauchef 850 piso -1, Edifico de Ingeniera, Hall Sur
+- **Cafetería de Beauchef 851.** La sala está ingresando por Beauchef 851, subiendo al auditorio del edificio araña en el extremo sur del patio interior. Cafetería está al frente del auditorio. Más info en el mapa interactiva de la página [Complejo de edificios Beauchef 851](http://ingenieria.uchile.cl/campus-beauchef/presentacion/97936/complejo-de-edificios-beauchef-851)
 
 <p class="text-center">
 <a class="btn btn-primary btn-lg" href="{{ site.url }}/lugares.html" role="button">Lugares en Universidad de Chile</a>
