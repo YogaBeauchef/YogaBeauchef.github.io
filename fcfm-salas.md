@@ -10,9 +10,9 @@ El lugar para la práctica en Beauchef se confirma cada semana. Por este motivo 
 
 Fechas correspondientes:
 
-- Lunes 26 de noviembre 2018, Cafetería de Beauchef 851
-- Miércoles 28 de noviembre 2018, Cafetería de Beauchef 851
-- Viernes 30 de noviembre 2018, Sala Aeróbica
+- Lunes 3 de diciembre 2018, Sala S-05, Beauchef 850
+- Miércoles 5 de diciembre 2018, Sala de Multiuso, Beauchef 850
+- Viernes 7 de diciembre 2018, Sala Aeróbica
 
 Salas:
 - **Dojo.** Beauchef 851 piso -3, Sala Dojo.
