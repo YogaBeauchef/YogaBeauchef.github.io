@@ -10,16 +10,16 @@ El lugar para la práctica en Beauchef se confirma cada semana. Por este motivo 
 
 Fechas correspondientes:
 
-- Lunes 3 de diciembre 2018, Sala S-05, Beauchef 850
-- Miércoles 5 de diciembre 2018, Sala de Multiuso, Beauchef 850
-- Viernes 7 de diciembre 2018, Sala Aeróbica
+- Lunes 10 de diciembre 2018, Sala Beauchef 851
+- Miércoles 12 de diciembre 2018, Sala de Multiuso 850
+- Viernes 14 de diciembre 2018, Sala Aeróbica
 
 Salas:
 - **Dojo.** Beauchef 851 piso -3, Sala Dojo.
 - **Sala Beauchef 851.** La sala está ingresando por Beauchef 851, cruzando el patio (los árboles), y al fondo encontraras la sala Beauchef. Con cualquier duda, te recomendamos preguntar a la guardia.
 - **Sala de Artes.** Beauchef 851 piso -3, atrás de oficinas, cerca del ascensor sur-este.
 - **Sala Aeróbica.** Beauchef 851 piso -3, atrás de la sala de pesas, cerca del ascensor sur-poniente
-- **Sala de Multiuso.** Beauchef 850 piso -1, Edifico de Ingeniera, Hall Sur
+- **Sala de Multiuso 850.** Beauchef 850 piso -1, Edifico de Ingeniera, Hall Sur
 - **Cafetería de Beauchef 851.** La sala está ingresando por Beauchef 851, subiendo al auditorio del edificio araña en el extremo sur del patio interior. Cafetería está al frente del auditorio. Más info en el mapa interactiva de la página [Complejo de edificios Beauchef 851](http://ingenieria.uchile.cl/campus-beauchef/presentacion/97936/complejo-de-edificios-beauchef-851)
 
 <p class="text-center">
