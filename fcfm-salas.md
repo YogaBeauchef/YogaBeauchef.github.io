@@ -10,12 +10,12 @@ El lugar para la práctica en Beauchef se confirma cada semana. Por este motivo 
 
 Fechas correspondientes:
 
-- Lunes 10 de diciembre 2018, Sala Beauchef 851
-- Miércoles 12 de diciembre 2018, Sala de Multiuso 850
-- Viernes 14 de diciembre 2018, Sala Aeróbica
+- Lunes 17 de diciembre 2018, Sala Beauchef 851
+- Miércoles 19 de diciembre 2018, Sala Beauchef 851
+- Viernes 21 de diciembre 2018, Sala Dojo
 
 Salas:
-- **Dojo.** Beauchef 851 piso -3, Sala Dojo.
+- **Sala Dojo.** Beauchef 851 piso -3, Sala Dojo.
 - **Sala Beauchef 851.** La sala está ingresando por Beauchef 851, cruzando el patio (los árboles), y al fondo encontraras la sala Beauchef. Con cualquier duda, te recomendamos preguntar a la guardia.
 - **Sala de Artes.** Beauchef 851 piso -3, atrás de oficinas, cerca del ascensor sur-este.
 - **Sala Aeróbica.** Beauchef 851 piso -3, atrás de la sala de pesas, cerca del ascensor sur-poniente
