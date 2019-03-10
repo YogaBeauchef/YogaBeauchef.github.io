@@ -7,7 +7,7 @@ categories: evento
  
 ![]({{ site.url }}/assets/img/posts/2019-03-10-ciencia-de-alimentacion.png)
 
-Los y las invitamos cordialmente al conversatorio “Ciencia de la Alimentación” el día miércoles 13 de marzo 2019 a las 18:30 horas. En esta oportunidad se abordarán temas relacionados con los alimentos que consumimos a diario, el efecto de estos en nuestro cuerpo, nuestras emociones y nuestra mente, qué modificaciones debemos hacer en nuestra dieta y más.
+Los y las invitamos cordialmente al conversatorio “Ciencia de la Alimentación” el día **miércoles 13 de marzo 2019 a las 18:30 horas, auditorio d'Etigny, Beauchef 851**. En esta oportunidad se abordarán temas relacionados con los alimentos que consumimos a diario, el efecto de estos en nuestro cuerpo, nuestras emociones y nuestra mente, qué modificaciones debemos hacer en nuestra dieta y más.
 
 Hoy en día nos encontramos en una era digital, donde estamos conectados de manera virtual con “realidades” que son ajenas, lejanas a nosotros, a nuestro cuerpo. Mientras estamos en esta realidad virtual, dejamos de lado la conexión con nosotros mismos.
 
