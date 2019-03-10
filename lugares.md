@@ -41,13 +41,16 @@ El taller **no requiere un conocimiento previo de yoga** y está abierto para to
 
 Para las **consultas** utiliza el correo: [YogaBeauchef@ing.uchile.cl](mailto:YogaBeauchef@ing.uchile.cl?subject=Pregunta%20desde%20web%20Yoga%20Beauchef).
 
-<!-- <p class="text-center"> -->
-<!-- <img src="{{ site.url }}/assets/img/person/juraj.jpg" -->
-<!-- class="img-responsive img-thumbnail" alt="Juraj Kubelka" width="100" -->
-<!-- height="100" /><br /> -->
-<!-- Juraj -->
-<!-- </p> -->
-
+<div class="text-center fotos">
+<figure>
+<img src="{{ site.url }}/assets/img/person/juraj.jpg" alt="Juraj Kubelka" class="img-responsive img-thumbnail"  width="100px" height="100px" />
+<figcaption>Juraj</figcaption>
+</figure>
+<figure>
+<img src="{{ site.url }}/assets/img/person/valentina.jpg" alt="Valentina Cancino" class="img-responsive img-thumbnail"  width="100px" height="100px" />
+<figcaption>Valentina</figcaption>
+</figure>
+</div>
 
 ## FAU - Facultad de Arquitectura y Urbanismo
 
