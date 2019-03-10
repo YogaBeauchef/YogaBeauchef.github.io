@@ -1,17 +1,19 @@
 ---
-title: 'Lugares en FCFM'
+title: 'Lugares de Práctica en FCFM'
 print-title: false
 layout: page
 ---
 
 # Lugares de Práctica en FCFM
 
-El lugar para la práctica en Beauchef se confirma cada semana. Por este motivo actualizamos esta página cada semana y te recomendamos mirarla antes de la práctica.
+El lugar para la práctica en Beauchef se confirma semenalmente. Por este motivo actualizamos esta página cada semana y te recomendamos mirarla antes de la práctica.
 
-Fechas correspondientes:
+Todavía no tenemos salas asignadas para la semana 18 de marzo, 2019.
 
-- Miércoles 26 de diciembre 2018, Sala Beauchef 851
-- Viernes 28 de diciembre 2018, Sala Aeróbica
+<!--Fechas correspondientes:-->
+<!---->
+<!--- Miércoles 26 de diciembre 2018, Sala Beauchef 851-->
+<!--- Viernes 28 de diciembre 2018, Sala Aeróbica-->
 
 Salas:
 - **Sala Dojo.** Beauchef 851 piso -3, Sala Dojo.

@@ -42,7 +42,7 @@ layout: page
 	
 Profesor de Yoga & Desarrollo Humano
 
-Inicia la práctica y estudio de la Yoga el año 1972, emprendiendo un camino de búsqueda hacia el equilibrio interno que combina con la práctica de Judo Kodokán, alcanzando el 3er Dan. Desde el año 2004, imparte la cátedra de Yoga & Desarrollo Humano en la Educación Superior.
+Inicia la práctica y estudio de Yoga y Judo Kodokán en 1972, durante 40 años participa en Escuelas de Sabiduría, conectando con el conocimiento ancestral, que involucra el Desarrollo Integral del Ser Humano. Actualmente integra Yoga y Sanación Energética en sus clases. Desde 2004 imparte la cátedra de Yoga & Desarrollo Humano en la Educación Superior. 
 
 ## Yoga
 
