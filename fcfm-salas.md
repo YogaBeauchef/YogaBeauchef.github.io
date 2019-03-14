@@ -8,12 +8,11 @@ layout: page
 
 El lugar para la práctica en Beauchef se confirma semenalmente. Por este motivo actualizamos esta página cada semana y te recomendamos mirarla antes de la práctica.
 
-Todavía no tenemos salas asignadas para la semana 18 de marzo, 2019.
+Fechas correspondientes:
 
-<!--Fechas correspondientes:-->
-<!---->
-<!--- Miércoles 26 de diciembre 2018, Sala Beauchef 851-->
-<!--- Viernes 28 de diciembre 2018, Sala Aeróbica-->
+- Lunes 18 de marzo 2019, Sala Dojo
+- Miércoles 20 de marzo 2019, Sala de Artes
+- Viernes 22 de marzo 2019, Sala Dojo
 
 Salas:
 - **Sala Dojo.** Beauchef 851 piso -3, Sala Dojo.
