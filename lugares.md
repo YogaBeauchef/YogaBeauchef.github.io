@@ -15,7 +15,7 @@ Yoga & Desarrollo Humano imparte clases curriculares y talleres en varias facult
 </p>
 
 
-## FCFM
+## FCFM — Facultad de Ciencias Físicas y Matemáticas
 
 <!-- El taller del grupo organizado Yoga Beauchef **terminó en agosto 2018**. Para las **consultas** utiliza el correo: [YogaBeauchef@ing.uchile.cl](mailto:YogaBeauchef@ing.uchile.cl?subject=Pregunta%20desde%20web%20Yoga%20Beauchef). Esperamos abrir el taller nuevamene en octubre 2018. -->
 
@@ -43,6 +43,10 @@ Para las **consultas** utiliza el correo: [YogaBeauchef@ing.uchile.cl](mailto:Yo
 
 <div class="text-center fotos">
 <figure>
+<img src="{{ site.url }}/assets/img/person/francisca.jpg" alt="Francisca Zambrano" class="img-responsive img-thumbnail"  width="100px" height="100px" />
+<figcaption>Francisca</figcaption>
+</figure>
+<figure>
 <img src="{{ site.url }}/assets/img/person/juraj.jpg" alt="Juraj Kubelka" class="img-responsive img-thumbnail"  width="100px" height="100px" />
 <figcaption>Juraj</figcaption>
 </figure>
@@ -52,7 +56,7 @@ Para las **consultas** utiliza el correo: [YogaBeauchef@ing.uchile.cl](mailto:Yo
 </figure>
 </div>
 
-## FAU - Facultad de Arquitectura y Urbanismo
+## FAU — Facultad de Arquitectura y Urbanismo
 
 - Cursos Curriculares (Sala F-15):
    - Martes y Jueves de 08:30 a 10:00
@@ -64,7 +68,7 @@ Para las **consultas** utiliza el correo: [YogaBeauchef@ing.uchile.cl](mailto:Yo
  Para más informaciones contactanos por el correo [yoga.fau@gmail.com](mailto:yoga.fau@gmail.com?subject=Pregunta%20desde%20web%20Yoga%20Beauchef).
 
 
-## JGM - Campus Juan Gómez Millas
+## JGM — Campus Juan Gómez Millas
 
 
 <!--- Cursos Curriculares:-->
