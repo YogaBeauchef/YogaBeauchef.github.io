@@ -10,13 +10,12 @@ El lugar para la práctica en Beauchef se confirma semenalmente. Por este motivo
 
 Fechas correspondientes:
 
-- Lunes 18 de marzo 2019, Sala Dojo
-- Miércoles 20 de marzo 2019, Sala de Artes
-- Viernes 22 de marzo 2019, Sala Dojo
+- Lunes 25 de marzo 2019, Sala Dojo
+- Miércoles 27 de marzo 2019, Sala Dojo
+- Viernes 29 de marzo 2019, Sala Dojo
 
 Salas:
 - **Sala Dojo.** Beauchef 851 piso -3, Sala Dojo.
-- **Sala Beauchef 851.** La sala está ingresando por Beauchef 851, cruzando el patio (los árboles), y al fondo encontraras la sala Beauchef. Con cualquier duda, te recomendamos preguntar a la guardia.
 - **Sala de Artes.** Beauchef 851 piso -3, atrás de oficinas, cerca del ascensor sur-este.
 - **Sala Aeróbica.** Beauchef 851 piso -3, atrás de la sala de pesas, cerca del ascensor sur-poniente
 - **Sala de Multiuso 850.** Beauchef 850 piso -1, Edifico de Ingeniera, Hall Sur
