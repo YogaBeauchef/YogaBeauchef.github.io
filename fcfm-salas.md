@@ -12,7 +12,7 @@ Fechas correspondientes:
 
 - Lunes 25 de marzo 2019, Sala Dojo
 - Miércoles 27 de marzo 2019, Sala Dojo
-- Viernes 29 de marzo 2019, Sala Dojo
+- Viernes 29 de marzo 2019, clase cancelada por el Día de Joven Combatiente
 
 Salas:
 - **Sala Dojo.** Beauchef 851 piso -3, Sala Dojo.
