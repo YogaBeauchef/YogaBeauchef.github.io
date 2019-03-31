@@ -26,11 +26,6 @@ We recommend moving this block and the preceding CSS link to the HEAD of your HT
 <input type="text" value="" name="LNAME" class="required" id="mce-LNAME">
 </div>
 <div class="mc-field-group">
-<label for="mce-CELULAR">Celular </label>
-<div style="color: gray">Escribe el número de su celular para poder recibir actualizaciones por WhatsApp</div>
-<input type="text" name="CELULAR" class="" value="" id="mce-CELULAR">
-</div>
-<div class="mc-field-group">
 <label for="mce-CAMPUS">¿A qué campus de la Univ. de Chile perteneces?  <span class="asterisk">*</span>
 </label>
 <select name="CAMPUS" class="required" id="mce-CAMPUS">
@@ -64,7 +59,7 @@ We recommend moving this block and the preceding CSS link to the HEAD of your HT
 </div>
 </form>
 </div>
-<script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';fnames[4]='CELULAR';ftypes[4]='phone';fnames[3]='CAMPUS';ftypes[3]='dropdown'; /*
+<script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';fnames[3]='CAMPUS';ftypes[3]='dropdown'; /*
 * Translated default messages for the $ validation plugin.
 * Locale: ES
 */
