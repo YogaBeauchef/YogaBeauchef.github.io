@@ -67,19 +67,15 @@ Para las **consultas** utiliza el correo: [YogaBeauchef@ing.uchile.cl](mailto:Yo
 <a name="jgm-jump"></a>
  Para más informaciones contactanos por el correo [yoga.fau@gmail.com](mailto:yoga.fau@gmail.com?subject=Pregunta%20desde%20web%20Yoga%20Beauchef).
 
-
 ## JGM — Campus Juan Gómez Millas
 
+- Cursos Curriculares:
+  - Martes y Jueves de 10:30 a 12:00
+  - Martes y Jueves de 12:00 a 13:30
+- Talleres Comunitarios:
+   - Martes y Jueves de !3:30 a 14:30
 
-<!--- Cursos Curriculares:-->
-<!--  - Martes y Viernes de 12:00 a 13:30-->
-<!--  - Martes y Jueves de 17:00 a 18:30-->
-<!--- Talleres Comunitarios:-->
-<!--   - Martes y Viernes de 13:30 a 14:30 -->
-<!--   - Martes y Jueves de 18:30 a 19:30-->
-
-
-Las clases empezarán a fines del marzo 2019. Para más informaciones contáctanos por el [drh.yoga@gmail.com](mailto:drh.yoga@gmail.com?subject=Pregunta%20desde%20web%20Yoga%20Beauchef).
+Para más informaciones contáctanos por el [drh.yoga@gmail.com](mailto:drh.yoga@gmail.com?subject=Pregunta%20desde%20web%20Yoga%20Beauchef).
 
 <p class="text-center">
 <a class="btn btn-primary btn-lg" href="articulos.html" role="button">Artículos</a>
