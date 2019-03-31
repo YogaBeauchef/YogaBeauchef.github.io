@@ -73,7 +73,7 @@ Para las **consultas** utiliza el correo: [YogaBeauchef@ing.uchile.cl](mailto:Yo
   - Martes y Jueves de 10:30 a 12:00
   - Martes y Jueves de 12:00 a 13:30
 - Talleres Comunitarios:
-   - Martes y Jueves de !3:30 a 14:30
+   - Martes y Jueves de 13:30 a 14:30
 
 Para más informaciones contáctanos por el [drh.yoga@gmail.com](mailto:drh.yoga@gmail.com?subject=Pregunta%20desde%20web%20Yoga%20Beauchef).
 
