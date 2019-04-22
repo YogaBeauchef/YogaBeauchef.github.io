@@ -13,7 +13,9 @@ Con el propósito aumentar la comprensión, los y las invitamos cordialmente al 
 
 Agradecemos el compartir la información sobre el evento:
 - [Evento en Facebook](https://www.facebook.com/events/610657469451585/)
-- Instragram: *agregamos pronto*
+- [Publicación en Facebook](https://www.facebook.com/CampusSustentableFCFM/photos/a.252799274843918/1057149967742174/?type=3&theater)
+- [Instragram](https://www.instagram.com/p/BwkdOaHh6w9/?utm_source=ig_web_button_share_sheet) 
+- [u-cursos](https://www.u-cursos.cl/ingenieria/2/foro_institucion/o/2218280) 
 
 ¡Los y las esperamos!
 
