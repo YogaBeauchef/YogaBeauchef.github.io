@@ -10,9 +10,9 @@ El lugar para la práctica en Beauchef se confirma semenalmente. Por este motivo
 
 Fechas correspondientes:
 
-- Lunes 22 de abril 2019, Cafetía de Beauchef 851
-- Miércoles 24 de abril 2019, [Conversatorio Ciencia de Alimentación y Salud]( {{ site.baseurl }}{% post_url 2019-04-22-ciencia-de-alimentacion-y-salud %} ), B-05, **18:15**
-- Viernes 26 de marzo 2019, Sala Dojo
+- Lunes 29 de abril 2019, Sala Dojo
+- Miércoles 1 de mayo 2019, feriado
+- Viernes 3 de mayo 2019, Sala Dojo
 
 Salas:
 - **Sala Dojo.** Beauchef 851 piso -3, Sala Dojo.
