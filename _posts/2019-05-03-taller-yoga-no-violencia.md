@@ -26,6 +26,4 @@ Agradecemos el compartir la información sobre el evento:
 
 ¡Los y las esperamos!
 
-Saludos cordiales, equipo Yoga Beauchef.
-<br />
-Co-organizado con [Beauchef Antiespecista](https://www.instagram.com/beauchefantiespecista/).
+Saludos cordiales, equipos Yoga Beauchef y [Beauchef Antiespecista](https://www.instagram.com/beauchefantiespecista/).
