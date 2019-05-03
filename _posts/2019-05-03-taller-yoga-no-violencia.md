@@ -20,6 +20,7 @@ Les invitamos al “Taller de Yoga y Desarrollo Humano: Camino Hacia la No Viole
 Agradecemos el compartir la información sobre el evento:
 <!--- [Evento en Facebook](https://www.facebook.com/events/610657469451585/)-->
 <!--- [Publicación en Facebook](https://www.facebook.com/CampusSustentableFCFM/photos/a.252799274843918/1057149967742174/?type=3&theater)-->
+- [Instragram de Yoga Beauchef](https://www.instagram.com/p/BxADo38BtMU/) 
 - [Instragram de Beauchef Antiespecista](https://www.instagram.com/p/Bw-MDJvjNTx/) 
 - [u-cursos foro](https://www.u-cursos.cl/ingenieria/2/foro_institucion/#mensaje_2221828)
 - [u-cursos afiche](https://www.u-cursos.cl/ingenieria/2/afiches/o/14706)
