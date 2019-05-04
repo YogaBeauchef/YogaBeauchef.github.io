@@ -10,9 +10,9 @@ El lugar para la práctica en Beauchef se confirma semenalmente. Por este motivo
 
 Fechas correspondientes:
 
-- Lunes 29 de abril 2019, Sala Dojo
-- Miércoles 1 de mayo 2019, feriado
-- Viernes 3 de mayo 2019, Sala Dojo
+- Lunes 6 de mayo 2019, Cafetería de Beauchef 851
+- Miércoles 8 de mayo 2019, Sala Dojo
+- Viernes 10 de mayo 2019, Sala Dojo
 
 Salas:
 - **Sala Dojo.** Beauchef 851 piso -3, Sala Dojo.
