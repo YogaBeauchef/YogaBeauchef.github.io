@@ -16,6 +16,7 @@ Les invitamos al “Taller de Yoga y Desarrollo Humano: Camino Hacia la No Viole
 - Fecha: miércoles 8 de mayo de 2019
 - Hora: 12:00 a 13:00
 - Inscripción: [enlace](http://tiny.cc/lj725y)
+- Taller es sin costo
 
 Agradecemos el compartir la información sobre el evento:
 <!--- [Evento en Facebook](https://www.facebook.com/events/610657469451585/)-->
