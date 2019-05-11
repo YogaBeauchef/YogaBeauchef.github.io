@@ -6,13 +6,13 @@ layout: page
 
 # Lugares de Práctica en FCFM
 
-El lugar para la práctica en Beauchef se confirma semenalmente. Por este motivo actualizamos esta página cada semana y te recomendamos mirarla antes de la práctica.
+El lugar para la práctica en Beauchef se confirma semanalmente. Por este motivo actualizamos esta página cada semana y te recomendamos mirarla antes de la práctica.
 
 Fechas correspondientes:
 
-- Lunes 6 de mayo 2019, Cafetería de Beauchef 851
-- Miércoles 8 de mayo 2019, Sala Dojo
-- Viernes 10 de mayo 2019, Sala Dojo
+- Lunes 13 de mayo 2019, Sala Dojo
+- Miércoles 15 de mayo 2019, Sala Dojo
+- Viernes 17 de mayo 2019, Sala Dojo
 
 Salas:
 - **Sala Dojo.** Beauchef 851 piso -3, Sala Dojo.
