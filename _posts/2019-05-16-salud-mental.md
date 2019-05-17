@@ -31,5 +31,11 @@ La siguiente charla de Sara Lazar muestra hechos científicos demostrando que el
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1tlWU3groi0" frameborder="0" allowfullscreen></iframe>
 </div>
 
+### Vínculo Entre Yoga y Salud Mental
+
+Nuestro taller Yoga & Desarrollo Humano está basado en [la enseñanza clásica tradicional]({{ site.url }}/detalles.html) que invita a un practicante a recorrer 8 pasos, considerando la dimensión ética, dimensión fisiológica, y la dimensión mental-espiritual. La práctica de los 8 pasos, es el enfoque principal que damos a nuestro taller, entregando herramientas, conocimiento y experiencias propias al practicante para poder gestionar su propia casa, sus propios cuerpos. 
+
+Los practicantes así tienen la oportunidad comenzar nuevamente vivir en el presente, y no en el futuro ni en el pasado, pues esto acarrea diferentes malestares que afectan nuestra mente, y por ende a nuestra salud mental. En la medida que vivimos en el presente, es decir, conectamos con lo que hacemos, sentimos, vivimos, los niveles de ansiedad, angustia y depresión van disminuyendo. La invitación que queremos dejar es aprender a conectar con el presente, con su propio Ser, y mantenerte en este.
+
 
 <br />
