@@ -10,11 +10,9 @@ El lugar para la práctica en Beauchef se confirma semanalmente. Por este motivo
 
 Fechas correspondientes:
 
-**Semana 20-24 de mayo 2019 sin taller por vacaciones de los alumnos**
-
-- Lunes 27 de mayo 2019, Cafetería de Beauchef 851
-- Miércoles 29 de mayo 2019, Cafetería de Beauchef 851
-- Viernes 31 de mayo 2019, Sala Dojo
+- Lunes 3 de junio 2019, Cafetería de Beauchef 851
+- Miércoles 5 de junio 2019, Sala de Multiuso 850
+- Viernes 7 de junio 2019, Sala Dojo
 
 Salas:
 - **Sala Dojo.** Beauchef 851 piso -3, Sala Dojo.
