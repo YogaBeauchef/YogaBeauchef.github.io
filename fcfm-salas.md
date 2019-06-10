@@ -10,10 +10,9 @@ El lugar para la práctica en Beauchef se confirma semanalmente. Por este motivo
 
 Fechas correspondientes:
 
-- ~~Lunes 3 de junio 2019, cancelado~~
-> Hola a todos! Por motivos de fuerza mayor cancelamos el taller de hoy, lunes 3 de junio 2019. Mil disculpas y que tengan una hermosa tarde!
-- Miércoles 5 de junio 2019, Sala de Multiuso 850
-- Viernes 7 de junio 2019, Sala Dojo
+- Lunes 10 de junio 2019, Cafetería de Beauchef 851
+- Miércoles 12 de junio 2019, Sala Dojo
+- Viernes 14 de junio 2019, Sala Dojo
 
 Salas:
 - **Sala Dojo.** Beauchef 851 piso -3, Sala Dojo.
