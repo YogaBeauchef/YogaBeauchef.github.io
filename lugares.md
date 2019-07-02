@@ -28,18 +28,18 @@ El taller del grupo organizado Yoga Beauchef **terminó en Junio 2019**. Si no t
 <!--**Salas** se asignan cada semana y lo [publicamos aquí semanalmente]({{ site.url }}/fcfm-salas.html).-->
 
 <a name="fau-jump"></a>
-El taller tiene el siguente **costo:**
-
-- 15.000.- Valor mensual, 3 clases semanales (12 clases en total, $ 1.250.- c/u)
-- 12.000.- Valor mensual, 2 clases semanales (8 clases en total, $ 1.500.- c/u)
--  7.000.- Valor mensual, 1 clase a la semana (4 clases en total, $ 1.750.- c/u)
--  2.000.- Valor de una clase, sin convenio mensual.
-
-Las clases pagadas no son recuperables, a excepción de fuerza mayor que debe ser justificada con certificado validado. Los que se inscriben a una o dos clases semanales, pueden recuperar clase perdida la misma semana. Al inscribirse, recibirás los detalles del curso, incluyendo la forma de pago.
-
-El taller **no requiere un conocimiento previo de yoga** y está abierto para todos los interesados. En la descripción del taller encuentras más información de [los implementos necesarios](taller#implementos) para las clases.
-
-Para las **consultas** utiliza el correo: [YogaBeauchef@ing.uchile.cl](mailto:YogaBeauchef@ing.uchile.cl?subject=Pregunta%20desde%20web%20Yoga%20Beauchef).
+<!--El taller tiene el siguente **costo:**-->
+<!---->
+<!--- 15.000.- Valor mensual, 3 clases semanales (12 clases en total, $ 1.250.- c/u)-->
+<!--- 12.000.- Valor mensual, 2 clases semanales (8 clases en total, $ 1.500.- c/u)-->
+<!---  7.000.- Valor mensual, 1 clase a la semana (4 clases en total, $ 1.750.- c/u)-->
+<!---  2.000.- Valor de una clase, sin convenio mensual.-->
+<!---->
+<!--Las clases pagadas no son recuperables, a excepción de fuerza mayor que debe ser justificada con certificado validado. Los que se inscriben a una o dos clases semanales, pueden recuperar clase perdida la misma semana. Al inscribirse, recibirás los detalles del curso, incluyendo la forma de pago.-->
+<!---->
+<!--El taller **no requiere un conocimiento previo de yoga** y está abierto para todos los interesados. En la descripción del taller encuentras más información de [los implementos necesarios](taller#implementos) para las clases.-->
+<!---->
+<!--Para las **consultas** utiliza el correo: [YogaBeauchef@ing.uchile.cl](mailto:YogaBeauchef@ing.uchile.cl?subject=Pregunta%20desde%20web%20Yoga%20Beauchef).-->
 
 <div class="text-center fotos">
 <figure>
