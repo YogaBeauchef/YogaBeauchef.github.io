@@ -17,15 +17,15 @@ Yoga & Desarrollo Humano imparte clases curriculares y talleres en varias facult
 
 ## FCFM — Facultad de Ciencias Físicas y Matemáticas
 
-<!-- El taller del grupo organizado Yoga Beauchef **terminó en agosto 2018**. Para las **consultas** utiliza el correo: [YogaBeauchef@ing.uchile.cl](mailto:YogaBeauchef@ing.uchile.cl?subject=Pregunta%20desde%20web%20Yoga%20Beauchef). Esperamos abrir el taller nuevamene en octubre 2018. -->
+El taller del grupo organizado Yoga Beauchef **terminó en Junio 2019**. Si no te inscribiste al taller durante el semestre Otoño 2019, te acosejamos que **[te inscribes ahora]({{ site.url }}/inscribir-fcfm.html)** para recibir información sobre el comienzo del taller al inicio del semestre Primavera 2019. Para las **consultas** utiliza el correo: [YogaBeauchef@ing.uchile.cl](mailto:YogaBeauchef@ing.uchile.cl?subject=Pregunta%20desde%20web%20Yoga%20Beauchef).
 
-El taller del grupo organizado Yoga Beauchef **comienza el día 18 de marzo del 2019**. Para participar **[inscríbete]({{ site.url }}/inscribir-fcfm.html)** y **elige** cualquier combinación de los días de nuestro taller. Inscripciones se realizaran durante todo el semestre. Horarios del taller:
-
-- Lunes: 18:30-20:00
-- Miércoles: 18:30-20:00
-- Viernes: 18:30-20:00
-
-**Salas** se asignan cada semana y lo [publicamos aquí semanalmente]({{ site.url }}/fcfm-salas.html).
+<!--El taller del grupo organizado Yoga Beauchef **comienza el día 18 de marzo del 2019**. Para participar **[inscríbete]({{ site.url }}/inscribir-fcfm.html)** y **elige** cualquier combinación de los días de nuestro taller. Inscripciones se realizaran durante todo el semestre. Horarios del taller:-->
+<!---->
+<!--- Lunes: 18:30-20:00-->
+<!--- Miércoles: 18:30-20:00-->
+<!--- Viernes: 18:30-20:00-->
+<!---->
+<!--**Salas** se asignan cada semana y lo [publicamos aquí semanalmente]({{ site.url }}/fcfm-salas.html).-->
 
 <a name="fau-jump"></a>
 El taller tiene el siguente **costo:**
