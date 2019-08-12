@@ -12,9 +12,9 @@ El lugar para la práctica en Beauchef se confirma semanalmente. Por este motivo
 
 Fechas correspondientes:
 
-- Lunes 5 de agosto 2019, Cafetería de Beauchef 851
-- Miércoles 7 de agosto 2019, Sala Dojo
-- Viernes 9 de agosto 2019, Sala Dojo
+- Lunes 12 de agosto 2019, Sala Dojo
+- Miércoles 14 de agosto 2019, Sala Dojo
+- Viernes 16 de agosto 2019, sin clase (las dependencias deportivas permanecerán cerradas por ser inter-feriado)
 
 Salas:
 - **Sala Dojo.** Beauchef 851 piso -3, Sala Dojo.
