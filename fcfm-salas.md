@@ -6,7 +6,7 @@ layout: page
 
 # Lugares de Práctica en FCFM
 
-<!-- El taller Yoga & Desarrollo Humano **terminó en Junio 2019.** Si no te inscribiste al taller durante el semestre Otoño 2019, te acosejamos que **[te inscribes ahora]({{ site.url }}/inscribir-fcfm.html)** para recibir información sobre el comienzo del taller al inicio del semestre Primavera 2019. -->
+<!-- El taller Yoga & Desarrollo Humano **terminó en Junio 2019.** Si no te inscribiste al taller durante el semestre Otoño 2019, te aconsejamos que **[te inscribes ahora]({{ site.url }}/inscribir-fcfm.html)** para recibir información sobre el comienzo del taller al inicio del semestre Primavera 2019. -->
 
 El lugar para la práctica en Beauchef se confirma semanalmente. Por este motivo actualizamos esta página cada semana y te recomendamos mirarla antes de la práctica.
 
