@@ -12,7 +12,7 @@ El lugar para la práctica en Beauchef se confirma semanalmente. Por este motivo
 
 Fechas correspondientes:
 
-- Lunes 30 de septiembre 2019, cancelada (no nos asignaron ninguna sala)
+- Lunes 30 de septiembre 2019, Cafetería de Beauchef 851
 - Miércoles 2 de octubre 2019, esperamos asignación de la sala
 - Viernes 4 de octubre 2019, esperamos asignación de la sala
 
