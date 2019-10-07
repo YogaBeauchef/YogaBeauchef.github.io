@@ -12,9 +12,9 @@ El lugar para la práctica en Beauchef se confirma semanalmente. Por este motivo
 
 Fechas correspondientes:
 
-- Lunes 30 de septiembre 2019, Cafetería de Beauchef 851
-- Miércoles 2 de octubre 2019, Sala Dojo
-- Viernes 4 de octubre 2019, Sala Dojo
+- Lunes 7 de octubre 2019, Sala Dojo
+- Miércoles 9 de octubre 2019, Sala Dojo
+- Viernes 11 de octubre 2019, Sala Dojo
 
 Salas:
 - **Sala Dojo.** Beauchef 851 piso -3, Sala Dojo.
