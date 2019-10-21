@@ -12,9 +12,9 @@ El lugar para la práctica en Beauchef se confirma semanalmente. Por este motivo
 
 Fechas correspondientes:
 
-- Lunes 21 de octubre 2019, Cancelado debido al cierre de la Universidad
-- Miércoles 23 de octubre 2019, Sala Dojo
-- Viernes 25 de octubre 2019, Sala Dojo
+- Lunes 21 de octubre 2019, Cancelado debido a las mínimas capacidades operativas del campus
+- Miércoles 23 de octubre 2019, Cancelado debido a las mínimas capacidades operativas del campus
+- Viernes 25 de octubre 2019, Cancelado debido a las mínimas capacidades operativas del campus
 
 Salas:
 - **Sala Dojo.** Beauchef 851 piso -3, Sala Dojo.
