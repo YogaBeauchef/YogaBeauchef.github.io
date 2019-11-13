@@ -1,6 +1,6 @@
 ---
 author: "Diego Reyes Hochfarber"
-title: "Mensaje desde el Corazón Sagrado"
+title: "Mensaje desde el Espacio Sagrado del Corazón"
 date:   2019-11-12 08:00:00 -0400
 categories: artículo
 ---
