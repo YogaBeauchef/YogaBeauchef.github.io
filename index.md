@@ -11,7 +11,7 @@ layout: page
 ## Noticias y Artículos
 
 <ul>
-  {% for post in site.posts limit: 2 %}
+  {% for post in site.posts limit: 3 %}
 <li>
   {% case post.categories.first %}
     {% when 'documental' %}
