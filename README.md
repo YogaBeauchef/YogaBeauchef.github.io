@@ -18,7 +18,7 @@ bundle config path 'vendor/bundle' --local
 bundle install
 ```
 
-## Run Local Server
+## Running Local Server
 ```
 bundle exec jekyll serve
 ```
