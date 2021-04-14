@@ -8,7 +8,7 @@ There are steps to reproduce in orter to run the website locally.
 ```
 # install bundler
 # notice that $HOME/.gem/ruby/*/bin must be in your PATH
-which bundle && echo "bundle is installed" || sudo gem install --user-install bundler:2.0.1
+which bundler && echo "bundler is installed" || sudo gem install --user-install bundler:2.0.1
 
 git clone git@github.com:YogaBeauchef/YogaBeauchef.github.io.git
 cd YogaBeauchef.github.io
