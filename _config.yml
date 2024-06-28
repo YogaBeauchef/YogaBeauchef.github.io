@@ -9,9 +9,6 @@ lang: es
 timezone: Chile/Santiago
 date_format: "%d de %B, %Y"
 
-google_analytics: UA-83579468-1
-google_analytics_id: UA-83579468-1
-
 # event is a post about our past event
 # news is a post about upcoming events or other organizational information
 # post is any other kind of post
