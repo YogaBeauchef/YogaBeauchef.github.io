@@ -1,0 +1,17 @@
+---
+import { getCollection } from 'astro:content';
+import PageLayout from '../layouts/PageLayout.astro';
+import PostList from '../components/PostList.astro';
+import { sortPosts } from '../utils/site';
+
+const posts = sortPosts(await getCollection('posts'));
+---
+
+<PageLayout title="Artículos & Eventos" printTitle={false}>
+  <h1>Noticias y Artículos</h1>
+  <PostList posts={posts} />
+
+  <p class="text-center">
+    <a class="btn btn-primary btn-lg" href="/" role="button">Página Principal</a>
+  </p>
+</PageLayout>

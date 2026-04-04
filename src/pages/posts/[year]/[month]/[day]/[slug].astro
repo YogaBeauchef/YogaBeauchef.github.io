@@ -1,0 +1,58 @@
+---
+import { getCollection, render } from 'astro:content';
+import BaseLayout from '../../../../../layouts/BaseLayout.astro';
+import Header from '../../../../../components/Header.astro';
+import { formatSpanishDate, getPostPath, sortPosts, stripMarkup } from '../../../../../utils/site';
+
+export async function getStaticPaths() {
+  const allPosts = sortPosts(await getCollection('posts'));
+
+  return allPosts.map((post) => {
+    const match = post.id.match(/^(\d{4})-(\d{2})-(\d{2})-(.+?)(?:\.md)?$/);
+    if (!match) {
+      return undefined;
+    }
+
+    const [, year, month, day, slug] = match;
+    return {
+      params: { year, month, day, slug },
+      props: { post },
+    };
+  }).filter(Boolean);
+}
+
+const allPosts = sortPosts(await getCollection('posts'));
+const { post } = Astro.props;
+const { Content } = await render(post);
+const currentIndex = allPosts.findIndex((entry) => entry.id === post.id);
+const previousPost = currentIndex >= 0 ? allPosts[currentIndex + 1] : undefined;
+const nextPost = currentIndex > 0 ? allPosts[currentIndex - 1] : undefined;
+const description = stripMarkup(post.body).slice(0, 180) || post.data.title;
+---
+
+<BaseLayout title={post.data.title} description={description} type="article">
+  <Header title={post.data.title} type="post" date={formatSpanishDate(post.data.date)} />
+
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+        <article role="main" class="blog-post">
+          <Content />
+        </article>
+
+        <ul class="pager blog-pager">
+          {previousPost && (
+            <li class="previous">
+              <a href={getPostPath(previousPost)} title={previousPost.data.title}>&larr; Artículo Anterior</a>
+            </li>
+          )}
+          {nextPost && (
+            <li class="next">
+              <a href={getPostPath(nextPost)} title={nextPost.data.title}>Siguiente Artículo &rarr;</a>
+            </li>
+          )}
+        </ul>
+      </div>
+    </div>
+  </div>
+</BaseLayout>

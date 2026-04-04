@@ -1,31 +1,68 @@
 # YogaBeauchef.github.io
-Web site https://YogaBeauchef.github.io
 
-## First Time Local Installation
+Website for Yoga Beauchef.
 
-There are steps to reproduce in orter to run the website locally.
+## Local Development
 
-```
-# install bundler
-# notice that $HOME/.gem/ruby/*/bin must be in your PATH
-which bundler && echo "bundler is installed" || sudo gem install --user-install bundler:2.0.1
+Requirements:
 
-git clone git@github.com:YogaBeauchef/YogaBeauchef.github.io.git
-cd YogaBeauchef.github.io
+- Node.js 20+ recommended
+- npm
 
-# install bundles
-bundle config path 'vendor/bundle' --local
-bundle install
+Install dependencies:
+
+```bash
+npm install
 ```
 
-## Running Local Server
-```
-bundle exec jekyll serve
+Start the Astro dev server:
+
+```bash
+npm run dev
 ```
 
-## Updating Gemfile.lock 
+Astro will print a local URL, typically `http://localhost:4321`.
+
+## Production Build
+
+Create the static site in `dist/`:
+
+```bash
+npm run build
 ```
-bundle config path 'vendor/bundle' --local
-bundle lock --update
-bundle install
+
+Preview the production build locally:
+
+```bash
+npm run preview
 ```
+
+## Repository Structure
+
+Main Astro application files:
+
+- `src/pages/`:
+  Route entrypoints for pages.
+  Includes the homepage, article index, and static content pages.
+- `src/pages/posts/[year]/[month]/[day]/[slug].astro`:
+  Dynamic route for blog/event posts using the same dated permalink structure as the old site.
+- `src/content/posts/`:
+  Markdown content for posts and event articles.
+- `src/layouts/`:
+  Shared Astro layouts.
+- `src/components/`:
+  Reusable UI pieces such as the navbar, header, footer, and post list.
+- `src/utils/`:
+  Site metadata and helpers like date formatting and post URL generation.
+- `public/`:
+  Static assets copied directly into the final site.
+  Includes CSS, JavaScript, images, fonts, favicons, and standalone static files.
+
+Project configuration:
+
+- `package.json`:
+  npm scripts and project dependencies.
+- `astro.config.mjs`:
+  Astro configuration.
+- `.gitignore`:
+  Ignores generated and dependency folders such as `node_modules/`, `.astro/`, and `dist/`.

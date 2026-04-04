@@ -1,0 +1,85 @@
+---
+const {
+  title,
+  subtitle,
+  type = 'page',
+  printTitle = true,
+  bigimg,
+  date,
+} = Astro.props;
+
+const images = Array.isArray(bigimg) ? bigimg : bigimg ? [bigimg] : [];
+const imageAttributes = Object.fromEntries(
+  images.flatMap((image, index) => {
+    const imageNumber = index + 1;
+    if (typeof image === 'string') {
+      return [[`data-img-src-${imageNumber}`, image.startsWith('/') ? image : `/${image}`]];
+    }
+
+    const entries: [string, string][] = [];
+    if (image.src) {
+      entries.push([`data-img-src-${imageNumber}`, image.src.startsWith('/') ? image.src : `/${image.src}`]);
+    }
+    if (image.desc) {
+      entries.push([`data-img-desc-${imageNumber}`, image.desc]);
+    }
+    return entries;
+  }),
+);
+---
+
+{(title || images.length > 0) ? (
+  <header class:list={['header-section', images.length > 0 && 'has-img']}>
+    {images.length > 0 && (
+      <Fragment>
+        <div id="header-big-imgs" data-num-img={images.length} {...imageAttributes}></div>
+        <div class="big-img intro-header">
+          <div class="container">
+            <div class="row">
+              <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+                <div class={`${type}-heading`}>
+                  <h1>{printTitle ? title : ''}</h1>
+                  {subtitle &&
+                    (type === 'page' ? (
+                      <>
+                        <hr class="small" />
+                        <span class={`${type}-subheading`}>{subtitle}</span>
+                      </>
+                    ) : (
+                      <h2 class={`${type}-subheading`}>{subtitle}</h2>
+                    ))}
+                  {type === 'post' && date && <span class="post-meta">Publicado el {date}</span>}
+                </div>
+              </div>
+            </div>
+          </div>
+          <span class="img-desc"></span>
+        </div>
+      </Fragment>
+    )}
+
+    <div class="intro-header no-img">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+            <div class={`${type}-heading`}>
+              <h1>{printTitle ? title : ''}</h1>
+              {subtitle &&
+                (type === 'page' ? (
+                  <>
+                    <hr class="small" />
+                    <span class={`${type}-subheading`}>{subtitle}</span>
+                  </>
+                    ) : (
+                      <h2 class={`${type}-subheading`}>{subtitle}</h2>
+                    ))}
+              {type === 'post' && date && <span class="post-meta">Publicado el {date}</span>}
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </header>
+) : (
+  <div class="intro-header"></div>
+)}

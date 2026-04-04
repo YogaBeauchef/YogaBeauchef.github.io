@@ -1,0 +1,35 @@
+---
+import type { CollectionEntry } from 'astro:content';
+import { formatSpanishDate, getCategoryIcon, getPostPath } from '../utils/site';
+
+interface Props {
+  posts: CollectionEntry<'posts'>[];
+}
+
+const { posts } = Astro.props;
+---
+
+<ul>
+  {posts.map((post) => {
+    const icon = getCategoryIcon(post);
+
+    return (
+      <li>
+        {icon && <span class={icon} aria-hidden="true"></span>}
+        {' '}
+        <a class="post-link" href={getPostPath(post)}>
+          {post.data.title}
+        </a>
+        {post.data.author ? (
+          <Fragment>
+            {' '}por {post.data.author},
+          </Fragment>
+        ) : (
+          ','
+        )}
+        {' '}
+        <span class="post-meta">{formatSpanishDate(post.data.date)}</span>
+      </li>
+    );
+  })}
+</ul>

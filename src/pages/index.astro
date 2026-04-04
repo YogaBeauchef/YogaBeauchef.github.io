@@ -1,0 +1,127 @@
+# cSpell:locale es,en
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../layouts/BaseLayout.astro';
+import Header from '../components/Header.astro';
+import PostList from '../components/PostList.astro';
+import { siteConfig, sortPosts } from '../utils/site';
+
+const posts = sortPosts(await getCollection('posts')).slice(0, 3);
+---
+
+<BaseLayout title={siteConfig.title} description={siteConfig.subtitle}>
+  <Header
+    title={siteConfig.title}
+    subtitle={siteConfig.subtitle}
+    printTitle={true}
+    bigimg="assets/img/header/carousel-1.jpg"
+    type="page"
+  />
+
+  <div class="container" role="main">
+    <div class="row">
+      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+        <div class="alert alert-warning" role="alert">
+          <strong>Aviso:</strong> YogaBeauchef ya no se encuentra activo. Este sitio web se mantiene
+          únicamente con fines de aprendizaje y como archivo de referencia.
+        </div>
+
+        <blockquote>
+          <p>
+            "Sólo se volverá clara tu visión cuando puedas mirar en tu propio corazón. Porqué quién mira
+            hacia afuera sueña, y quién mira hacia adentro despierta." —{' '}
+            <a href="https://es.wikipedia.org/wiki/Carl_Gustav_Jung">Carl Gustav Jung</a>
+          </p>
+        </blockquote>
+
+        <h2>Noticias y Artículos</h2>
+        <PostList posts={posts} />
+
+        <p class="text-right">
+          <a href="/articulos.html" title="Otros artículos y eventos">más noticias y artículos...</a>
+        </p>
+
+        <h2>Diego Reyes Hochfarber</h2>
+
+        <img
+          src="/assets/img/person/diego.png"
+          class="img-responsive img-thumbnail pull-left gap-right"
+          alt="Diego Reyes Hochfarber"
+          width="131em"
+        />
+
+        <p>
+          Profesor de Yoga & Desarrollo Humano. <br />
+          Inicia la práctica y estudio de Yoga y Judo Kodokán en 1972, durante 40 años participa en
+          Escuelas de Sabiduría, conectando con el conocimiento ancestral, que involucra el Desarrollo
+          Integral del Ser Humano. Actualmente integra Yoga y Sanación Energética en sus clases. Desde
+          2004 imparte la cátedra de Yoga & Desarrollo Humano en la Educación Superior.
+        </p>
+
+        <h2>Yoga</h2>
+
+        <p>
+          Yoga es una Ciencia Milenaria que ha acompañado al hombre a lo largo de toda su historia, las
+          más diversas culturas humanas han dado testimonio de haberla utilizado como una herramienta
+          preciosa en la búsqueda y realización de lo más noble y trascendente del ser humano. Yoga se
+          presenta como un método, un sistema ordenado que involucra todos los aspectos de la persona y
+          los integra de manera coherente para facilitar el desarrollo del potencial del Ser Humano.
+        </p>
+
+        <h2>Yoga & Desarrollo Humano</h2>
+
+        <p>
+          Yoga & Desarrollo Humano, nos entregan una mirada sistémica y crítica para valorar lo que
+          somos. Somos un cuerpo físico, somos emociones, somos pensamientos, y el uso que damos a cada
+          una de estas dimensiones humanas, siempre afecta a todas. Esa valoración se expresa por el
+          cuidado y el mantenimiento de estas tres dimensiones, haciéndonos cargo de lo que somos, y de
+          nuestros actos, impactando positivamente en nosotros, la sociedad y el medio ambiente.
+        </p>
+
+        <div class="video-container">
+          <iframe
+            width="560"
+            height="315"
+            src="https://www.youtube.com/embed/TatrB2nvvaU"
+            frameborder="1"
+            allowfullscreen
+          ></iframe>
+        </div>
+
+        <p class="text-right">
+          <span class="glyphicon glyphicon-facetime-video" aria-hidden="true"></span>
+          <a href="https://www.youtube.com/watch?v=BwzKu3ABT38">
+            Mundos Internos, Mundos Externos: Primera parte: Akasha
+          </a>
+        </p>
+
+        <h2>Crisis de Conciencia</h2>
+
+        <p>
+          Hay una manera nueva de ignorancia ligada al desarrollo mismo de la ciencia, hay una nueva
+          ceguera ligada al uso degradado de la razón. Las amenazas más graves que enfrenta a la
+          humanidad están ligadas al progreso ciego e incontrolado de conocimiento. Es necesario tomar
+          conciencia de la naturaleza y de las consecuencias de los paradigmas presentes que mutilan el
+          conocimiento y desfiguran la realidad.
+        </p>
+
+        <div class="video-container">
+          <iframe
+            width="560"
+            height="315"
+            src="https://www.youtube.com/embed/OpGFLlpbG6Q"
+            frameborder="1"
+            allowfullscreen
+          ></iframe>
+        </div>
+
+        <p class="text-center">
+          <a class="btn btn-primary btn-lg" href="/detalles.html" role="button">Yoga & D.H.</a>
+          <a class="btn btn-primary btn-lg" href="/lugares.html" role="button">
+            Lugares en Universidad de Chile
+          </a>
+        </p>
+      </div>
+    </div>
+  </div>
+</BaseLayout>

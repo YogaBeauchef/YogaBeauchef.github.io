@@ -1,0 +1,24 @@
+---
+import BaseLayout from './BaseLayout.astro';
+import Header from '../components/Header.astro';
+import { siteConfig } from '../utils/site';
+
+const pageData = Astro.props.frontmatter ?? Astro.props;
+const title = pageData.title ?? siteConfig.title;
+const subtitle = pageData.subtitle;
+const bigimg = pageData.bigimg;
+const printTitle = pageData['print-title'] ?? pageData.printTitle ?? true;
+const description = subtitle ?? siteConfig.description;
+---
+
+<BaseLayout title={title} description={description}>
+  <Header title={title} subtitle={subtitle} printTitle={printTitle} bigimg={bigimg} type="page" />
+
+  <div class="container" role="main">
+    <div class="row">
+      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+        <slot />
+      </div>
+    </div>
+  </div>
+</BaseLayout>
