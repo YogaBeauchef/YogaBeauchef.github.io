@@ -1,4 +1,5 @@
 ---
+# cSpell:locale es,en
 author: "Yoga Beauchef"
 title: "Surya Namaskar. 108 Saludos al Sol"
 date:   2018-06-18 16:00:00 -0300

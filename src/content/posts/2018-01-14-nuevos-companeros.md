@@ -1,4 +1,5 @@
 ---
+# cSpell:locale es,en
 author: "Yoga Beauchef"
 title: "Buscamos Nuevos Compañeros para 2018"
 date:  2018-01-14 10:00:00 -0300

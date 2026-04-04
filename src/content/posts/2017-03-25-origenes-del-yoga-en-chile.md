@@ -1,4 +1,5 @@
 ---
+# cSpell:locale es,en
 author: "Marcela Mateluna Díaz"
 title: "Los Orígenes del Yoga en Chile"
 date:   2017-03-25 16:16:01 -0400

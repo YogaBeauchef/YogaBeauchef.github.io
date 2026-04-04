@@ -1,4 +1,5 @@
 ---
+# cSpell:locale es,en
 author: "Yoga Beauchef"
 title: "Yoga & Autosanación"
 date:  2017-10-25 10:00:00 -0300

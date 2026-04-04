@@ -1,3 +1,4 @@
+// cSpell:locale es,en
 import type { CollectionEntry } from 'astro:content';
 
 export const siteConfig = {

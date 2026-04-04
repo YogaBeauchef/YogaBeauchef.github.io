@@ -1,4 +1,5 @@
 ---
+# cSpell:locale es,en
 author: "Yoga Beauchef"
 title: "Wayne Dyer y su Naranja"
 date:  2017-04-29 04:30:00 -0400

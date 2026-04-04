@@ -1,4 +1,5 @@
 ---
+# cSpell:locale es,en
 author: "Yoga Beauchef"
 title: "Estudiantes de la Universidad con Rodrigo Romo"
 date:  2017-04-22 05:30:00 -0400

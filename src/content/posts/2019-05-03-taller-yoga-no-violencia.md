@@ -1,4 +1,5 @@
 ---
+# cSpell:locale es,en
 author: "Yoga Beauchef y Beauchef Antiespecista"
 title: "Taller de Yoga y Desarrollo Humano: Camino Hacia la No Violencia"
 date:   2019-05-03 08:00:00 -0400

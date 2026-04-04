@@ -1,4 +1,5 @@
 ---
+# cSpell:locale es,en
 author: "Yoga Beauchef"
 title: "Yoga, Meditación y Salud Mental"
 date:   2019-05-16 10:00:00 -0400

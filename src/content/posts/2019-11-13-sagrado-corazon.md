@@ -1,4 +1,5 @@
 ---
+# cSpell:locale es,en
 author: "Diego Reyes Hochfarber"
 title: "Mensaje desde el Espacio Sagrado del Corazón"
 date:   2019-11-12 08:00:00 -0400

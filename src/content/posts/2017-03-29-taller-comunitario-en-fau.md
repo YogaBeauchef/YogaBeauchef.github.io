@@ -1,4 +1,5 @@
 ---
+# cSpell:locale es,en
 author: "Yoga Beauchef"
 title: "Nuevo Taller Comunitario en FAU"
 date:   2017-03-29 19:30:00 -0400

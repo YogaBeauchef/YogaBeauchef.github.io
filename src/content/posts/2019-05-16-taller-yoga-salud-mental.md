@@ -1,4 +1,5 @@
 ---
+# cSpell:locale es,en
 author: "Yoga Beauchef y CaDCC"
 title: "Taller de Yoga y Desarrollo Humano: Salud Mental"
 date:   2019-05-16 08:00:00 -0400

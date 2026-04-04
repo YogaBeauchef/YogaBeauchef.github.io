@@ -1,4 +1,5 @@
 ---
+# cSpell:locale es,en
 author: "Yoga Beauchef"
 title: "Práctica de los Cinco Ritos"
 date:  2017-08-19 16:30:00 -0500

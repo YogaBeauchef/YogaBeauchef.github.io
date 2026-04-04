@@ -1,4 +1,5 @@
 ---
+# cSpell:locale es,en
 author: "Yoga Beauchef"
 title: "Charla abierta por Rodrigo Romo"
 date:  2017-03-31 05:30:00 -0400

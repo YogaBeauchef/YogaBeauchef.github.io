@@ -1,4 +1,5 @@
 ---
+# cSpell:locale es,en
 author: "Yoga Beauchef"
 title: "Clase Abierta"
 date:   2019-03-11 11:00:00 -0300

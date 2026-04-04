@@ -1,4 +1,5 @@
 ---
+# cSpell:locale es,en
 author: "Diego Reyes Hochfarber"
 title: "Ética y Economía"
 date:   2019-12-01 08:00:00 -0400

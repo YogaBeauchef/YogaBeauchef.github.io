@@ -1,4 +1,5 @@
 ---
+# cSpell:locale es,en
 author: "Yoga Beauchef"
 title: "La Espiritualidad desde la Fisica Cuántica"
 date:  2017-05-14 16:30:00 -0500

@@ -1,4 +1,5 @@
 ---
+# cSpell:locale es,en
 author: "Yoga Beauchef"
 title: "Conversatorio: Ciencia de la Alimentación"
 date:   2019-03-10 11:00:00 -0300

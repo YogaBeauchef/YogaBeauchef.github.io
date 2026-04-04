@@ -1,4 +1,5 @@
 ---
+# cSpell:locale es,en
 author: "Yoga Beauchef"
 title: "David Icke. El Mundo de Manipulación"
 date:  2017-10-03 11:40:00 -0300

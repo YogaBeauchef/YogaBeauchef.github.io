@@ -1,4 +1,5 @@
 ---
+# cSpell:locale es,en
 author: "Yoga Beauchef y Oficina de Ingeniería para la Sustentabilidad"
 title: "Conversatorio: Ciencia de Alimentación y Salud"
 date:   2019-04-22 09:00:00 -0400
