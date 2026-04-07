@@ -6,7 +6,7 @@ Website for Yoga Beauchef.
 
 Requirements:
 
-- Node.js 20+ recommended
+- Node.js 22.12.0+ recommended
 - npm
 
 Install dependencies:
